@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Data Science Python
-description: A Jekyll theme for documentation
+description: Data Science Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nextgencodes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+theme: minimal-mistakes-jekyll
 
 permalink: pretty
 
