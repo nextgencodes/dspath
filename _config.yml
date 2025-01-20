@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Data Science Python
 description: Data Science Project
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://nextgencodes.github.io/dspath/" # the subpath of your site, e.g. /blog
 url: "https://nextgencodes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minimal-mistakes-jekyll
 
