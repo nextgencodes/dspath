@@ -4,6 +4,7 @@ gem 'faraday-retry', '~> 2.2'
 gem "webrick"
 gem "minimal-mistakes-jekyll"
 
+gem 'jekyll', '3.8.6'
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'liquid-c', '~> 4.0'
