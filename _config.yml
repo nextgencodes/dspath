@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: en-US
-title: Autonomous Project
+title: Data Science
 #subtitle: 
 title_separator: "-"
 email: admin@robo.run.place
@@ -22,14 +22,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Explore a range of cutting-edge technology topics, from harnessing the power of data with Machine Learning (ML) to building intelligent systems through Artificial Intelligence (AI), and mastering data-driven insights with Data Science (DS). Delve into the interconnected world of the Internet of Things (IoT), stay updated on the latest general technology trends, and unlock creativity with Generative AI (Gen AI), learning how to generate new content. Finally, discover how to effectively handle, process, and analyze massive datasets with Big Data tutorials, gaining practical skills and knowledge in each domain, from fundamental concepts to advanced applications."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.robo.run.place" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: indigenousVI
+# twitter_username: indigenousVI
 #github_username: username
 # Theme
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/Mission-Interior-from-Lookout.jpg"
-logo: /assets/images/doctrineofdiscovery_logo_new-88x88.png
+logo: /assets/images/Logo.png
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 
@@ -37,7 +37,7 @@ words_per_minute: 200
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-96037973-2"
+    tracking_id: "G-K76TKCCP0G"
     anonymize_ip: false # default
 
 # Build settings
