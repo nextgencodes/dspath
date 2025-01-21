@@ -1,16 +1,16 @@
 # site footer
 footer:
-  license: Except where otherwise noted, the content on The _Doctrine of Discovery_ Project is released under a Creative Commons Attribution 4.0 International license [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en). [sitemap](/sitemap.xml)
-  financial: This project is administered by the [Indigenous Values Initiative](https://indigenousvalues.org/). Please help [support our work](/give/). View our [privacy policy](/privacy-policy/). [proven](https://proven.lol/31e4db/).
+  license: Except where otherwise noted, the content is absolutely free on HyperEscape Project is released under a Creative Commons Attribution 4.0 International license [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en). [sitemap](/sitemap.xml)
+  financial: This project is administered by the [Indigenous Values Initiative](https://indigenousvalues.org/). Please help [support our work](/give/). View our [privacy policy](/privacy-policy/).
 
 #site donation block
 donation-alert:
   h2: Donate today!
-  text: Open Access educational resources cost money to produce. Please join the growing number of people [supporting _The Doctrine of Discovery_](https://paypal.me/indigenousvalues) so we can sustain this work. [Please give today](/give/).
+  text: Open Access educational resources cost time to produce and time is money. Please join the growing number of people [supporting HyperEscape Project](https://paypal.me/delhiiitian) so we can sustain this work. [Please give today](/give/).
 
 #suggested citation
 suggested-citation: SUGGESTED CITATION
 title-open-quote: '"'
 title-close-quote: ',"'
 translator: translated by
-journal-title: Doctrine of Discovery Project
+journal-title: HyperEscape

@@ -4,4 +4,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://doctrineofdiscovery.org/sitemap.xml
+Sitemap: https://www.robo.run.place/sitemap.xml
