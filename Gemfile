@@ -26,5 +26,6 @@ group :jekyll_plugins do
   gem "jekyll-minifier"
 end
 
+gem "bigdecimal"
 # gem "csv"
 # gem "base64"
