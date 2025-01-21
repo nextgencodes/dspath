@@ -21,7 +21,7 @@ email: admin@robo.run.place
 description: >- # this means to ignore newlines until "baseurl:"
   "Explore a range of cutting-edge technology topics, from harnessing the power of data with Machine Learning (ML) to building intelligent systems through Artificial Intelligence (AI), and mastering data-driven insights with Data Science (DS). Delve into the interconnected world of the Internet of Things (IoT), stay updated on the latest general technology trends, and unlock creativity with Generative AI (Gen AI), learning how to generate new content. Finally, discover how to effectively handle, process, and analyze massive datasets with Big Data tutorials, gaining practical skills and knowledge in each domain, from fundamental concepts to advanced applications."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://robo.run.place" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.robo.run.place" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: indigenousVI
 #github_username: username
 # Theme
