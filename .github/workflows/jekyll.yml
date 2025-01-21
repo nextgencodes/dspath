@@ -46,11 +46,14 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
         
-      - name: Build with Jekyll
-        run : bundle install
+      - name: Bundle Install
+        run: bundle install
+
+      - name: Build Jekyll
+        run: bundle exec jekyll build
         
-      - name: Build Jekyll for GitHub Pages
-        uses: actions/jekyll-build-pages@v1.0.13
+      # - name: Build Jekyll for GitHub Pages
+      #   uses: actions/jekyll-build-pages@v1.0.13
       
       #   # Outputs to the './_site' directory by default
       #   run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
