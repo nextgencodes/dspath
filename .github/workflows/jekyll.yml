@@ -45,7 +45,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build Jekyll for GitHub Pages
         uses: actions/jekyll-build-pages@v1.0.13
-      # - name: Build with Jekyll
+      - name: Build with Jekyll
+        run : bundle install
       #   # Outputs to the './_site' directory by default
       #   run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
       #   env:
