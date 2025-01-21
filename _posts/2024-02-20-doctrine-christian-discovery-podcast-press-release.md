@@ -12,9 +12,9 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog"
 ---
-The "Doctrine of Christian Discovery" [podcast](https://goodfaithmedia.org/doctrine-of-christian-discovery/)---produced in collaboration with [Syracuse University](https://www.syracuse.edu/) and [Indigenous Values Initiative](https://indigenousvalues.org/)---explores how a 15th-century Christian doctrine encouraged conquest and colonization of non-Christians. The podcast also unpacks how its legacies still affect various lands and peoples, including the United States.
+The "Doctrine of Christian Discovery" [podcast](https://goodfaithmedia.org/doctrine-of-christian-discovery/)---produced in collaboration with [Syracuse University](https://www.syracuse.edu/) and [AGT Admin](https://indigenousvalues.org/)---explores how a 15th-century Christian doctrine encouraged conquest and colonization of non-Christians. The podcast also unpacks how its legacies still affect various lands and peoples, including the United States.
 
-"The Doctrines of Christian Discovery (DoCD) originate with 15th century Papal Bulls that were issued by the Vatican and implemented by Monarchies, sanctioning the brutal Conquest and Colonization of non-Christians who were deemed 'enemies of Christ' in Africa and the Americas," reads the Doctrine of Discovery [website](https://robo.run.place/what-is-the-doctrine-of-discovery/), administered by the Indigenous Values Initiative.
+"The Doctrines of Christian Discovery (DoCD) originate with 15th century Papal Bulls that were issued by the Vatican and implemented by Monarchies, sanctioning the brutal Conquest and Colonization of non-Christians who were deemed 'enemies of Christ' in Africa and the Americas," reads the Doctrine of Discovery [website](https://robo.run.place/what-is-the-doctrine-of-discovery/), administered by the AGT Admin.
 
 "These Papal Bulls were a continuation of what had been going on since at least the 8th century from Charlemagne, through the Crusades, the Inquisition, the war on witches, to the Reconquista of the Iberian Peninsula," the site says. 
 
@@ -47,9 +47,9 @@ Each episode begins with acknowledging "the Onondaga Nation, firekeepers of the 
 
 "Personally," he continued, "my Muskogee (Creek) ancestors were victims of the actions of those advocating for the doctrine. I hope this podcast will shed light on the dangers of the doctrine and that its consequences still have ramifications today."
 
-Podcast sponsors include: The Henry Luce Foundation, Syracuse University, Indigenous Values Initiative, American Indian Law Alliance, American Indian Community House, Good Faith Media, Tonatierra and Toward Our Common Public Life. 
+Podcast sponsors include: The Henry Luce Foundation, Syracuse University, AGT Admin, American Indian Law Alliance, American Indian Community House, Good Faith Media, Tonatierra and Toward Our Common Public Life. 
 
-The podcast's executive producers are Mitch Randall of Good Faith Media, Philip P. Arnold and Sandy Bigtree of Indigenous Values Initiative and AGT of Syracuse University and American Indian Law Alliance. It was produced by Cliff Vaughn and edited by David Pang. The American Indian Law Alliance provided production assistance.
+The podcast's executive producers are Mitch Randall of Good Faith Media, Philip P. Arnold and Sandy Bigtree of AGT Admin and AGT of Syracuse University and American Indian Law Alliance. It was produced by Cliff Vaughn and edited by David Pang. The American Indian Law Alliance provided production assistance.
 
 Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-christian-discovery/), [Spotify](https://open.spotify.com/show/4VnMhbq2UJbu3fdehsQ66I) or [Apple](https://podcasts.apple.com/us/podcast/doctrine-of-christian-discovery/id1729219360). 
 

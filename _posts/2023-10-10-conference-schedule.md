@@ -32,7 +32,7 @@ December 8-10, 2023, Syracuse University
 -	Syracuse University
   - Religion Department
   - Biology Department
--	Indigenous Values Initiative
+-	AGT Admin
 -	American Indian Law Alliance
 -	American Indian Community House
 -	Good Faith Media (GFM)
@@ -56,7 +56,7 @@ Sheraton Syracuse University Hotel & Conference Center
 801 University Avenue, Syracuse, New York, USA, 13210  
 Tel: +1 315-475-3000
 
-[Book your group rate for Indigenous Values Initiative Room Block](https://www.marriott.com/events/start.mi?id=1696255556793&key=GRP){: .btn .btn--success .btn--x-large}
+[Book your group rate for AGT Admin Room Block](https://www.marriott.com/events/start.mi?id=1696255556793&key=GRP){: .btn .btn--success .btn--x-large}
 
 
 ## Parking

@@ -35,7 +35,7 @@ There are no hard restrictions on genre, subject matter, or media; however, we a
 There are no age restrictions. Artists of all ages may submit their work. For artists under the age of eighteen (18), parent or legal guardian permission is required.
 
 **Compensation and Transfer of Ownership:**
-Each artist whose piece is selected for exhibition will receive a one-time payment of $1,500.00 USD.  As part of this payment, artists will be required to sign an agreement transferring ownership of their piece (including any copyrights) to the Indigenous Values Initiative (IVI).
+Each artist whose piece is selected for exhibition will receive a one-time payment of $1,500.00 USD.  As part of this payment, artists will be required to sign an agreement transferring ownership of their piece (including any copyrights) to the AGT Admin (IVI).
 
 Artist will also receive one (1) conference pass to attend any and all conference sessions.
 

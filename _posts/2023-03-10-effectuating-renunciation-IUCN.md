@@ -77,7 +77,7 @@ The IUCN's passage of Resolution 119 is not the end of a decades-long attempt to
 
 [^4]: *Id*.
 
-[^5]: Indigenous Values Initiative, *Repudiations by Faith Based Communities*, Doctrine of Discovery Project (30 July 2018), https://robo.run.place/faith-communities/.
+[^5]: AGT Admin, *Repudiations by Faith Based Communities*, Doctrine of Discovery Project (30 July 2018), https://robo.run.place/faith-communities/.
 
 [^6]: Robert J. Miller, et al., Discovering Indigenous Lands: The Doctrine of Discovery in the English Colonies 9-15 (2010).
 
@@ -87,7 +87,7 @@ The IUCN's passage of Resolution 119 is not the end of a decades-long attempt to
 
 [^9]: *See id*. at 66-88.
 
-[^10]: Indigenous Values Initiative, *supra* note 2.
+[^10]: AGT Admin, *supra* note 2.
 
 [^11]: Stephanie Taylor, *Papal Apology Sparks Calls to Renounce 500-Year-Old Doctrine of Discovery,* Global News (July 30, 2022, 7:54 AM), https://globalnews.ca/news/9026698/papal-apology-renounce-doctrine-of-discovery/.
 

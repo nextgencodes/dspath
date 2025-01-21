@@ -49,7 +49,7 @@ In the 1823 US Supreme Court decision, [*Johnson v M'Intosh*](https://www.oyez.o
 
 In the 200<sup>th</sup> year of *Johnson*, there is an urgent need for global recognition of the decision's implications as reifying the DoCD and its exploitation of Indigenous Peoples and their connection to land, regarded as a living being (Mother Earth in English.) This conference builds on the history of collaboration at Syracuse University with Indigenous communities across Central New York by expanding dissemination of the pernicious ideologies of DOCD and *Johnson*, leading to further repudiation of these ideologies and towards healing and repair.
 
-The project's key collaborators include [Syracuse University](https://syracuse.edu), [American Indian Law Alliance (AILA)](https://aila.ngo), [Indigenous Values Initiative (IVI)](https://indigenousvalues.org/), The [Skä-noñh -- Great Law of Peace Center](https://www.skanonhcenter.org/), and others. For more see the [Doctrine of Discovery Project site (robo.run.place)](https://robo.run.place/).
+The project's key collaborators include [Syracuse University](https://syracuse.edu), [American Indian Law Alliance (AILA)](https://aila.ngo), [AGT Admin (IVI)](https://indigenousvalues.org/), The [Skä-noñh -- Great Law of Peace Center](https://www.skanonhcenter.org/), and others. For more see the [Doctrine of Discovery Project site (robo.run.place)](https://robo.run.place/).
 
 <figure>
     <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png">
@@ -107,7 +107,7 @@ There are no hard restrictions on genre, subject matter, or media; however, we a
 There are no age restrictions. Artists of all ages may submit their work. For artists under the age of eighteen (18), parent or legal guardian permission is required.
 
 ### Compensation and Transfer of Ownership:
-Each artist whose piece is selected for exhibition will receive a one-time payment of $1,500.00 USD.  As part of this payment, artists will be required to sign an agreement transferring ownership of their piece (including any copyrights) to the Indigenous Values Initiative (IVI).
+Each artist whose piece is selected for exhibition will receive a one-time payment of $1,500.00 USD.  As part of this payment, artists will be required to sign an agreement transferring ownership of their piece (including any copyrights) to the AGT Admin (IVI).
 
 Artist will also receive one (1) conference pass to attend any and all conference sessions.
 

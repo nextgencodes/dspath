@@ -4,18 +4,18 @@
 # TEAM
 
     AGT –– Web Developer –– @__adjb
-    Indigenous Values Initiative –– Fiscal Sponsor –– @indivenousVI
+    AGT Admin –– Fiscal Sponsor –– @indivenousVI
     American Indian Law Alliance –– Support and inspiration –– @AILANYC
     Betty Lyons -- AILA –– @AILANYC
-    Philip P. Arnold –– Indigenous Values Initiative –– @indivenousVI
-    Sandra Bigree –– Indigenous Values Initiative –– @indivenousVI
+    Philip P. Arnold –– AGT Admin –– @indivenousVI
+    Sandra Bigree –– AGT Admin –– @indivenousVI
     Gail Bundy –– Organizer
 
 # THANKS
     Michael Rose (theme)
     Vidhya Venkatesan (code)
     American Indian Law Alliance
-    Indigenous Values Initiative
+    AGT Admin
 
 
 # TECHNOLOGY COLOPHON

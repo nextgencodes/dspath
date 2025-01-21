@@ -25,12 +25,12 @@ toc_icon: "fire"
 author: adam-dj-brett
 ---
 
-[Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
+[Subscribe to the AGT Admin YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
 
 ## Session I Resources
 
 ### Session Videos
-  - Watch the missed sessions on the [Indigenous Values Initiative YouTube channel](https://youtube.com/c/IndigenousValuesInitiative)
+  - Watch the missed sessions on the [AGT Admin YouTube channel](https://youtube.com/c/IndigenousValuesInitiative)
   - [Video Index](/resources/event/mother-earths-pandemic-session-videos/)
   - [⤓ Download the Study Guide as a PDF](/assets/pdfs/Study-Guide-Mother-Earths-Pandemic.pdf)
 ### Texts

@@ -30,7 +30,7 @@ toc_icon: "cog"
 *   **Dates**: Thursday August 6, 13, and 20, 2020
 *   **Location**: Online
 *   **Times**: 6-9 PM EST each Thursday, followed by caucuses/small group discussions.
-*   **Sponsors**: [Indigenous Values Initiative](https://indigenousvalues.org), [American Indian Law Alliance](https://aila.ngo), Syracuse Unviersity ‘CUSE GRANT, the Syracuse University Department of Religion
+*   **Sponsors**: [AGT Admin](https://indigenousvalues.org), [American Indian Law Alliance](https://aila.ngo), Syracuse Unviersity ‘CUSE GRANT, the Syracuse University Department of Religion
 
 [Learn more about the conference](https://indigenousvalues.org/mother-earths-pandemic/){: .btn .btn--success}  
 

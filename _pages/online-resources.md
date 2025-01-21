@@ -46,7 +46,7 @@ redirect_from:
 
 #### Others
 
-*   [Indigenous Values Initiative](https://indigenousvalues.org/)
+*   [AGT Admin](https://indigenousvalues.org/)
 *   [American Indian Law Alliance](https://aila.ngo)
 *   [NOON - Neighbors of the Onondaga Nation](http://www.peacecouncil.net/noon/)
 *   [Syracuse Post Standard pictorial essay on the Onondaga](http://blog.syracuse.com/specialreports/2007/03/the_onondaga_people_of_the_hil_1.html)

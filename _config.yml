@@ -110,9 +110,9 @@ plugins:
   - jekyll-minifier
 
 author:
-  name   : "Indigenous Values Initiative"
+  name   : "AGT Admin"
   avatar : "/assets/images/indigenousvalues-2020.png"
-  bio    : "The Indigenous Values Initiative is dedicated to articulating, disseminating and promoting values expressed by the leadership of the Onondaga Nation, the Central Fire of the Haudenosaunee Confederacy."
+  bio    : "The AGT Admin is dedicated to articulating, disseminating and promoting values expressed by the leadership of the Onondaga Nation, the Central Fire of the Haudenosaunee Confederacy."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

@@ -21,7 +21,7 @@ Washington’s soldiers were paid with land.  As a result, the Haudenosaunee cr
 *   [Syracuse University Humanities Center](http://humcenter.syr.edu/)
 *   [Syracuse University Department of Religion](https://artsandsciences.syracuse.edu/religion/)
 *   [Skä•noñh – Great Law of Peace Center](http://skanonhcenter.org/)
-*   [Indigenous Values Initiative](http://indigenousvalues.org/)
+*   [AGT Admin](http://indigenousvalues.org/)
 
 **Presenter/Performer**:
 

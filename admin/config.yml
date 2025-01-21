@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: adamdjbrett/robo.run.place
+  repo: nextgencodes/dspath
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 

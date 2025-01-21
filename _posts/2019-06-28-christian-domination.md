@@ -28,7 +28,7 @@ This conference continues discussions between religious communities and Indigeno
 *   Tadodaho Sid Hill ([Onondaga Nation Council of Chiefs](https://www.onondaganation.org/))
 *   Beverly Jacobs ([Law, University of Windsor](http://www.uwindsor.ca/indigenous-peoples/302/beverly-jacobs))
 *   Betty Lyons ([American Indian Law Alliance](https://aila.ngo/))
-*   Sandy Bigtree (Indigenous Values Initiative)
+*   Sandy Bigtree (AGT Admin)
 *   Joe Heath (General Council for the [Onondaga Nation](https://www.onondaganation.org/))
 *   Phil Arnold ([Religion, Syracuse University](https://artsandsciences.syracuse.edu/religion//))
 

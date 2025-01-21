@@ -152,7 +152,7 @@
 - Maeve Callan, Simpson University, "The Medieval Origins of Religious White Supremacy: The King of Tars, Crusade Defeats, and the Doctrine of Discovery"
 - James Adams, National Museum of the American Indian - Smithsonian, "Pre-History of the "Doctrine of Christian Discovery"; Nicholas V and the English Eruption into the North Atlantic"
 - Jordan Loewen-Colón, Queens University, "Unveiling the Digital Doctrine of Discovery: Lessons from the Taino Encounter for Contemporary Data Society"  
-- Sandy Bigtree, Indigenous Values Initiative	
+- Sandy Bigtree, AGT Admin	
 
 <span id="aa115"></span>
 ### [Panel A115](#A115)
@@ -262,7 +262,7 @@
 ### [Panel B110](#B110)
 
 #### [International Dimensions of the Doctrine of Discovery Panel II](#B110)
-- *Sara	Shute, Indigenous Values Initiative, Chair*
+- *Sara	Shute, AGT Admin, Chair*
 - S. Lily Mendoza, Oakland University, "An Unholy Wedding: Christianity, Civilizational Supremacy and the In/visibility of “Race” in Post-colonial Philippines"
 - Eglute Trinkauskaite, Maryland Institute College of Art, "Christian Nationalism in the Lithuanian context"
 - Telma Alencar, York University, "Silencing the Doctrine of Discovery in Brazil"
@@ -303,7 +303,7 @@
 #### [Using the Two Row Wampum Method at the Vatican](#B113)
 
 - *Philip P.Arnold, Syracuse University, Chair & Panelist*
-- Sandra Bigtree, Indigenous Values Initiative
+- Sandra Bigtree, AGT Admin
 - Betty Lyons, American Indian Law Alliance
 - Sebastian Modrow, Syracuse University
 - AGT, American Indian Law Alliance / Syracuse University
@@ -358,7 +358,7 @@ Dene Nation & Assembly of First Nations Regional Chief
 #### [Christian Control of Women and Mother Earth: The Doctrine of Discovery and The Doctrine of Male Dominion](#C102)
 
 - *Terry Reeder, Syracuse University, Chair*
-- Sandy Bigtree, Indigenous Values Initiative
+- Sandy Bigtree, AGT Admin
 - Sally Roesch Wagner, Matilda Joslyn Gage Foundation
 - Terry Reeder, Syracuse University
 

@@ -27,7 +27,7 @@ toc_icon: "fire"
 author: adam-dj-brett  
 ---
 
-[Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
+[Subscribe to the AGT Admin YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
 
 ## Session I
 * [Thanksgiving Address and Friendship song by ﻿Tadodaho Sid Hill, Sr., Betty ﻿Lyons, and Sid Hill, Jr. ](https://youtu.be/-iuNsTsz3AA)

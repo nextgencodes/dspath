@@ -84,7 +84,7 @@ redirect_from:
 #### **Multiple Authors**
 
 - _Basic Call to Consciousness_, edited by _Akwesasne Notes_. Position papers delivered to the Non-Governmental Organization of the United Nations in Geneva in 1977 describe oppression of Native peoples in the US.
-  - To purchase a copy of the _Basic Call to Consciousness_ in English or Spanish contact Indigenous Values Initiative at info@indigenousvalues.org
+  - To purchase a copy of the _Basic Call to Consciousness_ in English or Spanish contact AGT Admin at info@indigenousvalues.org
 - _Roots of the Iroquois, Tehanetorens_, various _native authors_, traces the origins of the Confederacy and its growth and attempts to destroy it.
 - _Story Earth, Native Voices on the Environment_, Compiled by _Inter Press Service_. This book draws a clear distinction between cultures and how the environment is viewed.  
 

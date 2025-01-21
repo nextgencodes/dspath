@@ -112,7 +112,7 @@ All of these changes improved the aesthetic and load time. Plus it helped make t
   - AGT
   - Betty Lyons
   - American Indian Law Alliance
-  - Indigenous Values Initiative
+  - AGT Admin
 
 Please read [humans.txt](humans.txt) for the contributors.
 

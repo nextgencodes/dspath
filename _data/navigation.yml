@@ -1,8 +1,8 @@
 main:
-  - title: "What is it?"
-    url: /what-is-the-doctrine-of-discovery/
-  - title: "Papal Bulls"
-    url: /papal-bulls/
+  - title: "Machine Learning"
+    url: /machine-learning/
+  - title: "Deep Learning"
+    url: /deep-learning/
   - title: "Law"
     url: /law/
   - title: "Repudiations"
