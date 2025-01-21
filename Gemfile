@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '4.2'
+gem 'jekyll'
 
 gem 'faraday-retry'
 gem "webrick"
