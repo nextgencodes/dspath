@@ -3,9 +3,9 @@ title: "Machine Learning"
 header:
   image: /assets/images/book-1659717_1280.jpg
 author: indigenous-values-initiative
-permalink: /law/
+permalink: /machine-learning/
 published: true
-date: 2018-07-30 17:44:55
+date: 2025-01-21 17:44:55
 categories:
   - Law
 tags:
