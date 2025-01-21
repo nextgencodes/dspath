@@ -17,8 +17,9 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem "jekyll-include-cache"
   gem "jekyll-minifier"
+  gem 'jekyll-asciidoc'
 
 end
 
-# gem "csv"
-# gem "base64"
+gem "csv"
+gem "base64"

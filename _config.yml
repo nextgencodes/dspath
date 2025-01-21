@@ -26,7 +26,7 @@ twitter_username: indigenousVI
 #github_username: username
 # Theme
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/Mission-Interior-from-Lookout.jpg"
 logo: /assets/images/doctrineofdiscovery_logo_new-88x88.png
