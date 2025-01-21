@@ -10,7 +10,7 @@ tags:
   - featured
 author: indigenous-values-initiative
 ---
-We are now accepting applications for partnership and collaboration with The Doctrine of Discovery Project. We are interested in publishing original essays roughly 1,000-3,000 words in length for [doctrineofdiscovery.org](https://doctrineofdiscovery.org/). Applicants must have specific knowledge pertaining to Indigenous Peoples issues and/or graduate level training in religious studies, law, humanities, social sciences, or ecology. This partnership is open to faculty, independent scholars, graduate students and Haudenosaunee and Indigenous knowledge sharers. Stipends are available.
+We are now accepting applications for partnership and collaboration with The Doctrine of Discovery Project. We are interested in publishing original essays roughly 1,000-3,000 words in length for [robo.run.place](https://robo.run.place/). Applicants must have specific knowledge pertaining to Indigenous Peoples issues and/or graduate level training in religious studies, law, humanities, social sciences, or ecology. This partnership is open to faculty, independent scholars, graduate students and Haudenosaunee and Indigenous knowledge sharers. Stipends are available.
 
 Interested authors should submit a 150-300 word abstract, a 150–300 word biography, your resume/cv (if available), and a sample of a previous published article no later than September 30, 2022. The goal of this partnership is to support and amplify Indigenous voices pertaining to the Doctrine of Discovery, so priority will be given to Indigenous Peoples working in this area.
 
@@ -28,7 +28,7 @@ Authors will be notified whether their proposals are accepted by October 1, 2022
 
 ## **About the Project**
 
-The Doctrine of Discovery Project ([doctrineofdiscovery.org](https://doctrineofdiscovery.org/)) is a collaborative interdisciplinary open educational resource designed for use in higher education. It is being funded by the Henry Luce Foundation Grant, [“200 Years of Johnson v. McIntosh: Indigenous Responses to the Religious Foundations of Racism,”](https://www.hluce.org/grants/?programs=4&years=314&sort=newest&date_day=&date_month=&date_year=&keyword=) for 3 years (2022-24).
+The Doctrine of Discovery Project ([robo.run.place](https://robo.run.place/)) is a collaborative interdisciplinary open educational resource designed for use in higher education. It is being funded by the Henry Luce Foundation Grant, [“200 Years of Johnson v. McIntosh: Indigenous Responses to the Religious Foundations of Racism,”](https://www.hluce.org/grants/?programs=4&years=314&sort=newest&date_day=&date_month=&date_year=&keyword=) for 3 years (2022-24).
 
 ## **About the Principal Investigator**
 

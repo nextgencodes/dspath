@@ -6,7 +6,7 @@ tags:
   - link
   - video
   - featured
-  - doctrineofdiscovery
+  - HyperEscape
   - podcast
 link: https://stevennewcomb.substack.com/
 author: steven-newcomb

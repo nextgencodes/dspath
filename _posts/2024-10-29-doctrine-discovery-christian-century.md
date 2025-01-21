@@ -5,6 +5,6 @@ categories:
 tags:
   - link
   - genocide
-  - doctrineofdiscovery
+  - HyperEscape
 link: https://www.christiancentury.org/books/when-doctrine-discovery-became-law 
 ---

@@ -19,9 +19,9 @@ author: philip-arnold
 > In this episode, we explore the religious origins of white supremacy; the Haudenosaunee Confederacy and its impact on Western democracy, women’s rights, and environmental justice; and the Skä·noñh—Great Law of Peace Center. 
 
 ## RESOURCES MENTIONED:
-- <https://podcast.doctrineofdiscovery.org/>
+- <https://podcast.robo.run.place/>
 - <https://indigenousvalues.org/>
-- <https://doctrineofdiscovery.org/>
+- <https://robo.run.place/>
 - <https://press.syr.edu/supressbooks/5835/urgency-of-indigenous-values-the/>
 - <https://www.skanonhcenter.org/>
 - <https://aila.ngo/>

@@ -43,7 +43,7 @@ toc_icon: "cog"
 11. ["The Contemporary Presence of Discovery's Assertion in Canada"](https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/)
 12. ["Order, Economy, and Legality: *Johnson v. M'Intosh* after Two Hundred Years"](https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/)
 13. ["Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples"](https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/)
-14. [S02E01 - The Backstory of Johnson v. M’Intosh with Lindsay Robertson](https://podcast.doctrineofdiscovery.org/season2/episode-01/)
+14. [S02E01 - The Backstory of Johnson v. M’Intosh with Lindsay Robertson](https://podcast.robo.run.place/season2/episode-01/)
 
 
 ## Resources
@@ -56,7 +56,7 @@ toc_icon: "cog"
 The collection consists of 263 original manuscripts, five hand-drawn maps and seven published documents which relate to the Companies’ efforts to acquire title to Indian lands during the period 1775 to 1823. These efforts culminated in the Supreme Court’s landmark 1823 decision in Johnson v. M’Intosh divesting Native Americans of title to their lands. Jasper Brinton, great-great-great grandson of John Hill Brinton, the Companies’ secretary from 1805 to 1823, entrusted the papers to the Donald E. Pray Law Library. The papers informed Lindsay G. Robertson’s award-winning book, _[Conquest by Law: How the Discovery of America Dispossessed Indigenous Peoples of Their Lands](http://www.us.oup.com/us/catalog/general/subject/Law/LegalHistory/?view=usa&ci=9780195314892)_ (Oxford University Press, 2005)
 
 
-[Back to Law](https://doctrineofdiscovery.org/law/).
+[Back to Law](https://robo.run.place/law/).
 
 * * *
 

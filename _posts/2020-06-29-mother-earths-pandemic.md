@@ -46,7 +46,7 @@ This conference will connect the dots between our current pandemic, environmenta
 [Download the flyer as a PDF](/assets/pdfs/mother-earth-pandemic-doctrine-discovery-2020.pdf){: .btn .btn--info}
 
 ## Conference Details
-* [Videos Index](https://doctrineofdiscovery.org/resources/event/mother-earths-pandemic-session-videos/)
+* [Videos Index](https://robo.run.place/resources/event/mother-earths-pandemic-session-videos/)
 * [⤓ Download the Study Guide as a PDF](/assets/pdfs/Study-Guide-Mother-Earths-Pandemic.pdf)
 * [Watch the Talks on YouTube](https://youtube.com/c/IndigenousValuesInitiative)
 * [Mother Earth‘s Pandemic Resources](/law/resources/event/mother-earths-pandemic-resources/)

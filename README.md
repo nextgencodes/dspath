@@ -1,8 +1,8 @@
 # Doctrine of Discovery
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f4991e96-a11b-4dab-8f6c-6575ef141b7d/deploy-status)](https://app.netlify.com/sites/doctrineofdiscovery/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4991e96-a11b-4dab-8f6c-6575ef141b7d/deploy-status)](https://app.netlify.com/sites/HyperEscape/deploys)
 [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/doctrineofdiscovery.org)
-![GitHub last commit](https://img.shields.io/github/last-commit/adamdjbrett/doctrineofdiscovery.org)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/robo.run.place)
+![GitHub last commit](https://img.shields.io/github/last-commit/adamdjbrett/robo.run.place)
 
 ## Land Acknowledgment
 We begin by acknowledging with respect the Onondaga Nation, Central Fire of the Haudenosaunee Confederacy, on whose ancestral lands we now inhabit. Wherever you are located be aware of the Indigenous Peoples on whose lands you reside. We are mindful that the technology that makes this conference possible comes from the mineral extraction by multinational corporations, which decimate and displace Indigenous people and their land all over the world. May the information you glean from this website motivate you to uphold Indigenous values, protect Mother Earth, Honor Indian Treaties and hold your government and various institutions accountable who stand in the way.
@@ -102,14 +102,14 @@ All of these changes improved the aesthetic and load time. Plus it helped make t
 - <https://github.com/mmistakes>
 
 ### Webmaster
-**Adam DJ Brett**
+**AGT**
 - <https://adamdjbrett.com>
-- <https://github.com/adamdjbrett>
+- <https://github.com/nextgencodes>
 
 ### Contributors
   - Philip P. Arnold
   - Sandra Bigtree
-  - Adam DJ Brett
+  - AGT
   - Betty Lyons
   - American Indian Law Alliance
   - Indigenous Values Initiative

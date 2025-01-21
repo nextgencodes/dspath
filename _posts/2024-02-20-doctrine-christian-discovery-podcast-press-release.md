@@ -14,11 +14,11 @@ toc_icon: "cog"
 ---
 The "Doctrine of Christian Discovery" [podcast](https://goodfaithmedia.org/doctrine-of-christian-discovery/)---produced in collaboration with [Syracuse University](https://www.syracuse.edu/) and [Indigenous Values Initiative](https://indigenousvalues.org/)---explores how a 15th-century Christian doctrine encouraged conquest and colonization of non-Christians. The podcast also unpacks how its legacies still affect various lands and peoples, including the United States.
 
-"The Doctrines of Christian Discovery (DoCD) originate with 15th century Papal Bulls that were issued by the Vatican and implemented by Monarchies, sanctioning the brutal Conquest and Colonization of non-Christians who were deemed 'enemies of Christ' in Africa and the Americas," reads the Doctrine of Discovery [website](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/), administered by the Indigenous Values Initiative.
+"The Doctrines of Christian Discovery (DoCD) originate with 15th century Papal Bulls that were issued by the Vatican and implemented by Monarchies, sanctioning the brutal Conquest and Colonization of non-Christians who were deemed 'enemies of Christ' in Africa and the Americas," reads the Doctrine of Discovery [website](https://robo.run.place/what-is-the-doctrine-of-discovery/), administered by the Indigenous Values Initiative.
 
 "These Papal Bulls were a continuation of what had been going on since at least the 8th century from Charlemagne, through the Crusades, the Inquisition, the war on witches, to the Reconquista of the Iberian Peninsula," the site says. 
 
-The podcast was produced at the "Religious Origins of White Supremacy" conference in December 2023 at Syracuse University in New York. The conference was organized by Professor Philip P. Arnold of Syracuse, Sandy Bigtree (Mohawk Nation,) and Adam DJ Brett.
+The podcast was produced at the "Religious Origins of White Supremacy" conference in December 2023 at Syracuse University in New York. The conference was organized by Professor Philip P. Arnold of Syracuse, Sandy Bigtree (Mohawk Nation,) and AGT.
 
 "This podcast represents the first of many educational resources that will be coming out of this conference," said the conference organizers, "which will hopefully be useful not only for challenging the legacy of *Johnson v. M'Intosh* but also dismantling the Doctrine of Christian Discovery, and further challenging white supremacy through understanding its longer history."
 
@@ -49,11 +49,11 @@ Each episode begins with acknowledging "the Onondaga Nation, firekeepers of the 
 
 Podcast sponsors include: The Henry Luce Foundation, Syracuse University, Indigenous Values Initiative, American Indian Law Alliance, American Indian Community House, Good Faith Media, Tonatierra and Toward Our Common Public Life. 
 
-The podcast's executive producers are Mitch Randall of Good Faith Media, Philip P. Arnold and Sandy Bigtree of Indigenous Values Initiative and Adam DJ Brett of Syracuse University and American Indian Law Alliance. It was produced by Cliff Vaughn and edited by David Pang. The American Indian Law Alliance provided production assistance.
+The podcast's executive producers are Mitch Randall of Good Faith Media, Philip P. Arnold and Sandy Bigtree of Indigenous Values Initiative and AGT of Syracuse University and American Indian Law Alliance. It was produced by Cliff Vaughn and edited by David Pang. The American Indian Law Alliance provided production assistance.
 
 Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-christian-discovery/), [Spotify](https://open.spotify.com/show/4VnMhbq2UJbu3fdehsQ66I) or [Apple](https://podcasts.apple.com/us/podcast/doctrine-of-christian-discovery/id1729219360). 
 
-Learn more at [DoctrineOfDiscovery.org](https://doctrineofdiscovery.org/)
+Learn more at [robo.run.place](https://robo.run.place/)
 Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-christian-discovery/), [Spotify](https://open.spotify.com/show/4VnMhbq2UJbu3fdehsQ66I) or [Apple](https://podcasts.apple.com/us/podcast/doctrine-of-christian-discovery/id1729219360).
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4VnMhbq2UJbu3fdehsQ66I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

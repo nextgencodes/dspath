@@ -286,7 +286,7 @@
 
 #### [New Books in the Study of Domination](#B112)
 
-- *Adam DJ Brett, Syracuse University, Chair*
+- *AGT, Syracuse University, Chair*
 - Philip P. Arnold, Syracuse University
 - Danielle Boaz, UNC Charlotte
 - João Chaves, Baylor University
@@ -306,7 +306,7 @@
 - Sandra Bigtree, Indigenous Values Initiative
 - Betty Lyons, American Indian Law Alliance
 - Sebastian Modrow, Syracuse University
-- Adam DJ Brett, American Indian Law Alliance / Syracuse University
+- AGT, American Indian Law Alliance / Syracuse University
 
 
 
@@ -391,7 +391,7 @@ Dene Nation & Assembly of First Nations Regional Chief
 #### [International Dimensions of the Doctrine of Discovery Panel III: International Human Rights](#C107)
 
 - *Shrutika Lakshmi, Syracuse University, Chair*
-- Adam DJ Brett, American Indian Law Alliance
+- AGT, American Indian Law Alliance
 - Betty Lyons, American Indian Law Alliance
 - Eve Reyes Aguirre, Tonatierra
 - Marina Johnson-Zafiris, Cornell University, "Holy Hydro: Sherrill’s application to the Mohawk Land Claim"

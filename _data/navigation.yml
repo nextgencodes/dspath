@@ -10,7 +10,7 @@ main:
   - title: "UN"
     url: /united-nations/
   - title: "Podcast"
-    url: https://podcast.doctrineofdiscovery.org/
+    url: https://podcast.robo.run.place/
   - title: "About"
     url: /about/
   - title: "Featured"
@@ -43,7 +43,7 @@ next-steps:
       - title: "Inter Caetera: A New Translation"
         url: /inter-caetera/  
       - title: "Podcast"
-        url: https://podcast.doctrineofdiscovery.org/
+        url: https://podcast.robo.run.place/
       - title: "Religious Origins of White Supremacy Conference" 
         url: /blog/religious-origins-white-supremacy/ 
       - title: "Manifest Destiny"
@@ -96,10 +96,10 @@ next-steps:
       - title: "River Series"
         url: /categories/river/  
   - title: "Podcasts"
-    url: https://podcast.doctrineofdiscovery.org/
+    url: https://podcast.robo.run.place/
     children:
       - title: "Mapping the Doctrine of Discovery"
-        url: "https://podcast.doctrineofdiscovery.org"
+        url: "https://podcast.robo.run.place"
       - title: "Doctrine of Christian Discovery"
         url: "https://megaphone.link/AOOOI9257433215"  
   - title: "Law"

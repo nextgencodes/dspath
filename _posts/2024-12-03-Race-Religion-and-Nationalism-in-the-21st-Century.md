@@ -8,7 +8,7 @@ tags:
   - journal
   - featured
   - land-theft
-  - doctrineofdiscovery
+  - HyperEscape
   - race
   - special-issue
 link: https://www.mdpi.com/journal/religions/special_issues/TER981G9Q3

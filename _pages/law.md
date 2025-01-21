@@ -22,24 +22,24 @@ redirect_from:
 
 ## US Law
 
-  *   [_Fletcher v. Peck_, 10 US 87 (1810)](https://doctrineofdiscovery.org/fletcher-v-peck-10-us-87-1810/)
+  *   [_Fletcher v. Peck_, 10 US 87 (1810)](https://robo.run.place/fletcher-v-peck-10-us-87-1810/)
   *   [_Johnson v. M’Intosh_, March 10, 1823](/johnson-v-mcintosh/)
   *   [The Monroe Doctrine, December 2, 1823](/monroe-doctrine/)
   *   [The Roosevelt Corollary to the Monroe Doctrine, December 6, 1904](/roosevelt-corollary/)
   *   [Lyng v. Northwest Indian Cemetery Protective Association, 485 U.S. 439](/law/lyng/)
-  *   [_Tee-Hit-Ton v. The United States_. US, 348 US 272 (1955)](https://doctrineofdiscovery.org/tee-hit-ton/)
+  *   [_Tee-Hit-Ton v. The United States_. US, 348 US 272 (1955)](https://robo.run.place/tee-hit-ton/)
   * _City of Sherrill V. Oneida Indian Nation_
     *   [_City of Sherrill V. Oneida Indian Nation_, 544 U.s. 197 (2005): the Doctrine of Christian Discovery and Domination and the Denial of Treaty Rights](/blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/) By Joseph J. Heath, Esq. Onondaga Nation General Counsel
     *   [_City of Sherrill V. Oneida Indian Nation_, 544 U.s. 197 (2005)](/sherrill-v-oneida-opinion-of-the-court/) by Dana Lloyd
         *   Ruth Bader Ginsburg:
               > Under the "doctrine of discovery," ..."fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States."
 
-  *   [_Cayuga Indian Nation v. Pataki_,413 F. 3d 266, (2nd Cir. June 28, 2005)](https://doctrineofdiscovery.org/cayuga-v-pataki/)
-  *   [_Ottawa Tribe of Oklahoma v. Logan_, 577 F. 3d 634, (6th Cir., 2009)](https://doctrineofdiscovery.org/ottawa-v-logan/)
-  *   [_Oneida Indian Nation v. County of Oneida_, 617 F. 3d 114, August 9, 2010](https://doctrineofdiscovery.org/oneida-indian-nation-v-county-of-oneida/)
-  *   [_Onondaga Nation v. NY_, 500 Fed. Appx. 87 (Argued October 12, 2012, decided October 19, 2012)](https://doctrineofdiscovery.org/onondaga-nation-v-ny/)
-  *   [_White v. University of California_, 765 F. 3d 1010, (9th Cir., 2014)](https://doctrineofdiscovery.org/white-v-univ-of-cal/)
-  *   [_U.s. V. King Mountain Tobacco Co., Inc. Decision_ 9th Circuit, August 13, 2018](https://doctrineofdiscovery.org/u-s-v-king-mountain-tobacco/)
+  *   [_Cayuga Indian Nation v. Pataki_,413 F. 3d 266, (2nd Cir. June 28, 2005)](https://robo.run.place/cayuga-v-pataki/)
+  *   [_Ottawa Tribe of Oklahoma v. Logan_, 577 F. 3d 634, (6th Cir., 2009)](https://robo.run.place/ottawa-v-logan/)
+  *   [_Oneida Indian Nation v. County of Oneida_, 617 F. 3d 114, August 9, 2010](https://robo.run.place/oneida-indian-nation-v-county-of-oneida/)
+  *   [_Onondaga Nation v. NY_, 500 Fed. Appx. 87 (Argued October 12, 2012, decided October 19, 2012)](https://robo.run.place/onondaga-nation-v-ny/)
+  *   [_White v. University of California_, 765 F. 3d 1010, (9th Cir., 2014)](https://robo.run.place/white-v-univ-of-cal/)
+  *   [_U.s. V. King Mountain Tobacco Co., Inc. Decision_ 9th Circuit, August 13, 2018](https://robo.run.place/u-s-v-king-mountain-tobacco/)
 
 ### Related Materials
   * [Brief Of Amicus Curiae Confederated Tribes And Bands Of The Yakama Nation In Support Of Respondent with Ethan Jones, Counsel of Record](/assets/pdfs/20180924115810387_36893-pdf-Yakama-Nation-br.pdf)

@@ -5,7 +5,7 @@ categories:
 tags:
   - link
   - land-theft
-  - doctrineofdiscovery
+  - HyperEscape
   - podcast
 link: https://religionnews.com/2024/05/15/stealing-land-in-the-name-of-god/
 author: steven-newcomb

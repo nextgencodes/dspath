@@ -9,9 +9,9 @@ suggestedcitiation: false
 ---
 # Who we are
 
-Our website address is: [http://doctrineofdiscovery.org](http://doctrineofdiscovery.org).
+Our website address is: [http://robo.run.place](http://robo.run.place).
 
-www.doctrineofdiscovery.org & doctrineofdiscovery.org Privacy Policy
+www.robo.run.place & robo.run.place Privacy Policy
 # ONLINE PRIVACY POLICY AGREEMENT
 
 December 30, 2019
@@ -22,7 +22,7 @@ Doctrine Of Discovery/Indigenous Values Initiative (Doctrine Of Discovery) value
 
 We reserve the right to make changes to this Policy at any given time. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page. If at any point in time Doctrine Of Discovery/Indigenous Values Initiative decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether to permit the use of their information in this separate manner.
 
-This Policy applies to Doctrine Of Discovery/Indigenous Values Initiative, and it governs any and all data collection and usage by us. Through the use of https://doctrineofdiscovery.org/, you are therefore consenting to the data collection procedures expressed in this Policy.
+This Policy applies to Doctrine Of Discovery/Indigenous Values Initiative, and it governs any and all data collection and usage by us. Through the use of https://robo.run.place/, you are therefore consenting to the data collection procedures expressed in this Policy.
 
 Please note that this Policy does not govern the collection and use of information by companies that Doctrine Of Discovery/Indigenous Values Initiativedoes not control, nor by individuals not employed or managed by us. If you visit a website that we mention or link to, be sure to review its privacy policy before providing the site with information. It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent to better understand the way in which websites garner, make use of and share the information collected.
 
@@ -68,7 +68,7 @@ The data we collect from you will be stored for no longer than necessary. The le
 
 Doctrine Of Discovery/Indigenous Values Initiative does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
 
-Doctrine Of Discovery/Indigenous Values Initiative may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from https://doctrineofdiscovery.org/
+Doctrine Of Discovery/Indigenous Values Initiative may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from https://robo.run.place/
 
 Doctrine Of Discovery/Indigenous Values Initiative may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
 
@@ -116,7 +116,7 @@ Under the regulations of the General Data Protection Regulation ("GDPR") of the 
 *   The right of data portability: this means you can obtain and use the data we hold for your own purposes without explanation. If you wish to request a copy of your information, contact us at info@indigenousvalues.org.
 *   The right to object: this means you can file a formal objection with us regarding our use of your information with regard to third parties, or its processing where our legal basis is our legitimate interest in it. To do this, please send an email to info@indigenousvalues.org.
 
-In addition to the rights above, please rest assured that we will always aim to encrypt and anonymize your personal information whenever possible. We also have protocols in place in the unlikely event that we suffer a data breach and we will contact you if your personal information is ever at risk. For more details regarding our security protections see the section below or visit our website at https://doctrineofdiscovery.org/.
+In addition to the rights above, please rest assured that we will always aim to encrypt and anonymize your personal information whenever possible. We also have protocols in place in the unlikely event that we suffer a data breach and we will contact you if your personal information is ever at risk. For more details regarding our security protections see the section below or visit our website at https://robo.run.place/.
 
 ## Security
 

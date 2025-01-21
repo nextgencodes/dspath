@@ -22,13 +22,13 @@ redirect_from:
 
  
 
-*   [Papal Bull Dum Diversas](https://doctrineofdiscovery.org/dum-diversas/) 18 June, 1452
+*   [Papal Bull Dum Diversas](https://robo.run.place/dum-diversas/) 18 June, 1452
     *   [English Quotations from Dum Diversas](https://books.google.com/books?id=djkoAAAAYAAJ&dq=Dum%20Diversas%20English%20Translation&pg=PA12#v=onepage&q=%22Dum%20Diversas%22&f=false) and the [Latin original via google books](https://books.google.com/books?id=6NDmAAAAMAAJ&dq=%22Bullarium%20patronatus%20Portugalliae%20Regum%22&pg=PA22#v=onepage&q&f=false)
-*   [The Bull Romanus Pontifex (Nicholas V), January 8, 1455](https://doctrineofdiscovery.org/the-bull-romanus-pontifex-nicholas-v/)
-*   [The Bull Inter Caetera (Alexander VI), May 4, 1493](https://doctrineofdiscovery.org/inter-caetera/)
+*   [The Bull Romanus Pontifex (Nicholas V), January 8, 1455](https://robo.run.place/the-bull-romanus-pontifex-nicholas-v/)
+*   [The Bull Inter Caetera (Alexander VI), May 4, 1493](https://robo.run.place/inter-caetera/)
 *   Expansion of Papal Bulls
-    *   [Treaty of Tordesillas, June 7, 1494](https://doctrineofdiscovery.org/treaty-of-tordesillas/)
-    *   [Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496](https://doctrineofdiscovery.org/patent-cabot-henry-vii/)
-    *   [The Requerimiento, 1514](https://doctrineofdiscovery.org/requerimiento/)
+    *   [Treaty of Tordesillas, June 7, 1494](https://robo.run.place/treaty-of-tordesillas/)
+    *   [Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496](https://robo.run.place/patent-cabot-henry-vii/)
+    *   [The Requerimiento, 1514](https://robo.run.place/requerimiento/)
 * [Sublimis Deus (Sublimis Dei) A Brief Overview](/papal-bulls/sublimis-deus/)
   * [Sublimis Deus, Pastorale Officium and Non IndecensVidetur – A Historical Dive Into the Vatican’s Failure to Rescind the Doctrine of Discovery](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/)

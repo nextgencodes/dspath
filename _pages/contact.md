@@ -7,5 +7,5 @@ redirect_from: /table/
 suggestedcitiation: false
 ---
 
-- **Email:** [contact@doctrineofdiscovery.org](mailto:contact@doctrineofdiscovery.org)
-- **Web:** [doctrineofdiscovery.org](https://doctrineofdiscovery.org)
+- **Email:** [contact@robo.run.place](mailto:contact@robo.run.place)
+- **Web:** [robo.run.place](https://robo.run.place)

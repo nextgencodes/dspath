@@ -1,7 +1,7 @@
 <!--
 &lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
-adamdjbrett/doctrineofdiscovery.org is built on the following main stack:
+adamdjbrett/robo.run.place is built on the following main stack:
 
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -15,7 +15,7 @@ Full tech stack [here](/techstack.md)
 
 &lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
-adamdjbrett/doctrineofdiscovery.org is built on the following main stack:
+adamdjbrett/robo.run.place is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
-![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/doctrineofdiscovery.org](https://github.com/adamdjbrett/doctrineofdiscovery.org)![](https://img.stackshare.io/public_badge.svg "public")
+![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/robo.run.place](https://github.com/nextgencodes/dspath)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
 |20<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
@@ -135,13 +135,13 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[github-pages](https://rubygems.org/github-pages)|N/A|06/28/19|Adam DJ Brett |MIT|N/A|
+|[github-pages](https://rubygems.org/github-pages)|N/A|06/28/19|AGT |MIT|N/A|
 |[jekyll-feed](https://rubygems.org/jekyll-feed)|N/A|07/25/23|chromers |MIT|N/A|
 |[jekyll-paginate](https://rubygems.org/jekyll-paginate)|N/A|07/25/23|chromers |MIT|N/A|
 |[jekyll-redirect-from](https://rubygems.org/jekyll-redirect-from)|N/A|07/25/23|chromers |MIT|N/A|
 |[jekyll-seo-tag](https://rubygems.org/jekyll-seo-tag)|N/A|07/25/23|chromers |MIT|N/A|
 |[jekyll-sitemap](https://rubygems.org/jekyll-sitemap)|N/A|07/25/23|chromers |MIT|N/A|
-|[tzinfo-data](https://rubygems.org/tzinfo-data)|N/A|06/28/19|Adam DJ Brett |MIT|N/A|
+|[tzinfo-data](https://rubygems.org/tzinfo-data)|N/A|06/28/19|AGT |MIT|N/A|
 |[webrick](https://rubygems.org/webrick)|N/A|02/13/23|adamdjbrett |BSD-2-Clause|N/A|
 
 

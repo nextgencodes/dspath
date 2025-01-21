@@ -51,7 +51,7 @@ If you have any questions, comments, or additions please [contact us](/contact/)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ### Security
-[Verify SSL](https://www.sslshopper.com/ssl-checker.html#hostname=doctrineofdiscovery.org).
+[Verify SSL](https://www.sslshopper.com/ssl-checker.html#hostname=robo.run.place).
 
 ### Web Administrator
-[**Adam DJ Brett**](https://adamdjbrett.com)
+[**AGT**](https://adamdjbrett.com)

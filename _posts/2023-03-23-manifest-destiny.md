@@ -95,7 +95,7 @@ When thinking about the Doctrine of Christian Discovery, Manifest Destiny, and r
 
 * Newcomb, Steven T. "The Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. McIntosh, and Plenary Power." *New York University Review of Law & Social Change*, vol. 20, no. 2, 1992-1993, pp. 303-342.
 
-* ---. "The U.S. Government's Claim of a Right of Domination." <https://doctrineofdiscovery.org/blog/us-government-claim-domination/>. Accessed 13 March 2023.
+* ---. "The U.S. Government's Claim of a Right of Domination." <https://robo.run.place/blog/us-government-claim-domination/>. Accessed 13 March 2023.
 
 * Saito, Natsu Taylor. *Meeting the Enemy: American Exceptionalism and International Law.* New York UP, 2010.
 

@@ -8,7 +8,7 @@ tags:
   - article
   - featured
   - land-theft
-  - doctrineofdiscovery
+  - HyperEscape
   - law
 link: https://digitalrepository.unm.edu/tlj/vol23/iss1/5
 author: robert-miller

@@ -14,7 +14,7 @@ tags:
   - featured
   - WorldWaterOne
   - domination
-  - doctrineofdiscovery
+  - HyperEscape
   - cemanahuac
 author: tupac-enrique-acosta
 sidebar:

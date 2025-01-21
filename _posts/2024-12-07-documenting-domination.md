@@ -8,7 +8,7 @@ tags:
   - journal
   - featured
   - land-theft
-  - doctrineofdiscovery
+  - HyperEscape
   - race
   - theology
   - special-issue

@@ -1,5 +1,5 @@
 ---
-title: "However, Extravagant The Pretensions Of Johnson V. M’Intosh by Betty Lyons and Adam DJ Brett"
+title: "However, Extravagant The Pretensions Of Johnson V. M’Intosh by Betty Lyons and AGT"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

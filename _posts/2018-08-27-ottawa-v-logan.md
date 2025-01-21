@@ -20,7 +20,7 @@ Excerpt:
 > BUT THEN:  
 > “We hold that, because the Tribe, under these treaties, retained **at most a right of occupancy** to the lands in Ohio, and that this right was extinguished by **abandonment**, any related fishing rights it may have preserved were similarly extinguished when the Tribe removed west of the Mississippi.”  _Id._ At 634 (Emphasis added.)
 
-[Back to Law](https://doctrineofdiscovery.org/law/).  
+[Back to Law](https://robo.run.place/law/).  
 
 \* * *
 

@@ -28,9 +28,9 @@ tags:
 
 ### **Listed by Author**
 
-- [d’Errico, Peter](https://doctrineofdiscovery.org/resources-by-peter-derrico/). “[Replacing the Doctrine of Christian Discovery and Implementing the United Nations Declaration on the Rights of Indigenous Peoples](https://doctrineofdiscovery.org/resources-by-peter-derrico/).”
-- \_\_\_\_\_. ["Indigenous Lèse-majesté: Questioning U.S. Federal Indian Law" (⤓ PDF for Download)](https://doctrineofdiscovery.org/assets/pdfs/2017_19-02_06_Errico.pdf).
-- \_\_\_\_\_. ["Seeing through the chimera of U.S. federal Indian 'trust' law."](https://doctrineofdiscovery.org/assets/pdfs/Seeing_through_the_chimera_of_U.S._feder.pdf) [(⤓ PDF for Download)](https://doctrineofdiscovery.org/assets/pdfs/Seeing_through_the_chimera_of_U.S._feder.pdf).
+- [d’Errico, Peter](https://robo.run.place/resources-by-peter-derrico/). “[Replacing the Doctrine of Christian Discovery and Implementing the United Nations Declaration on the Rights of Indigenous Peoples](https://robo.run.place/resources-by-peter-derrico/).”
+- \_\_\_\_\_. ["Indigenous Lèse-majesté: Questioning U.S. Federal Indian Law" (⤓ PDF for Download)](https://robo.run.place/assets/pdfs/2017_19-02_06_Errico.pdf).
+- \_\_\_\_\_. ["Seeing through the chimera of U.S. federal Indian 'trust' law."](https://robo.run.place/assets/pdfs/Seeing_through_the_chimera_of_U.S._feder.pdf) [(⤓ PDF for Download)](https://robo.run.place/assets/pdfs/Seeing_through_the_chimera_of_U.S._feder.pdf).
 - Heath, Joseph J. [The Doctrine of Christian Discovery: Its Fundamental Importance in United States Indian Law and the Need for its Repudiation and Removal. 10 Alb. Govt. L. Rev. 112 (2017)](/assets/pdfs/Joe-Heath-THE-DOCTRINE-OF-CHRISTIAN-DISCOVERY-ITS-FUNDAMENTAL-IMPORTANCE-IN-UNITED-STATES-INDIAN-LAW-AND-THE-NEED-FOR-ITS-REPUDIATION-AND-REMOVAL.pdf) [(⤓ PDF for Download)](/assets/pdfs/Joe-Heath-THE-DOCTRINE-OF-CHRISTIAN-DISCOVERY-ITS-FUNDAMENTAL-IMPORTANCE-IN-UNITED-STATES-INDIAN-LAW-AND-THE-NEED-FOR-ITS-REPUDIATION-AND-REMOVAL.pdf).
 - \_\_\_\_\_. [A Brief History of Haudenosaunee Treaty Making and The Obligations of the United States to Protect Haudenosaunee Lands and to Not Disturb the Free Use and Enjoyment Thereof. (⤓ PDF for Download)](/assets/pdfs/Treaty-history3-19-12xx.pdf).
 - \_\_\_\_\_. [The Citizenship Act of 1924 was an Integral Pillar of The Colonization and Forced Assimilation Policies of the United States in Violation of Treaties. (⤓ PDF for Download)](/assets/pdfs/CITIZENSHIP-ACT-OF-1924Red6-6-18.pdf).

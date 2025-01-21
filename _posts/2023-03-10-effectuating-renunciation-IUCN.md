@@ -77,7 +77,7 @@ The IUCN's passage of Resolution 119 is not the end of a decades-long attempt to
 
 [^4]: *Id*.
 
-[^5]: Indigenous Values Initiative, *Repudiations by Faith Based Communities*, Doctrine of Discovery Project (30 July 2018), https://doctrineofdiscovery.org/faith-communities/.
+[^5]: Indigenous Values Initiative, *Repudiations by Faith Based Communities*, Doctrine of Discovery Project (30 July 2018), https://robo.run.place/faith-communities/.
 
 [^6]: Robert J. Miller, et al., Discovering Indigenous Lands: The Doctrine of Discovery in the English Colonies 9-15 (2010).
 
