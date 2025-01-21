@@ -1,0 +1,24 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Adam DJ Brett –– Web Developer –– @__adjb
+    Indigenous Values Initiative –– Fiscal Sponsor –– @indivenousVI
+    American Indian Law Alliance –– Support and inspiration –– @AILANYC
+    Betty Lyons -- AILA –– @AILANYC
+    Philip P. Arnold –– Indigenous Values Initiative –– @indivenousVI
+    Sandra Bigree –– Indigenous Values Initiative –– @indivenousVI
+    Gail Bundy –– Organizer
+
+# THANKS
+    Michael Rose (theme)
+    Vidhya Venkatesan (code)
+    American Indian Law Alliance
+    Indigenous Values Initiative
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Font Awesome, Formspree, Jekyll, Markdown
+    Netlify, jQuery, Modernizr, Normalize.css
