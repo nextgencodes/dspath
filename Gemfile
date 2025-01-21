@@ -5,6 +5,7 @@ gem 'jekyll', "3.10.0"
 gem 'faraday-retry'
 gem "webrick"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-assets"
 
 
 gem "jekyll-include-cache", group: :jekyll_plugins
