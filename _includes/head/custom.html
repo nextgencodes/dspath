@@ -1,55 +1,5 @@
-<!--SEO-->
-{% seo %}
 <!-- start custom head snippets -->
-<!-- Google Analytics -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
-<!-- ReCaptcha -->
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png">
-<link rel="manifest" href="/assets/images/favicons/site.webmanifest">
-<link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
-<meta name="msapplication-TileColor" content="#2b5797">
-<meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
 
-<!-- JSON-LD Schema Website-->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "WebSite",
-  "name": "HyperEscape",
-  "url": "https://robo.run.place/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "{search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
-<!-- JSON-LD Schema Organization -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "HyperEscape",
-  "alternateName": "HyperEscape",
-  "url": "https://robo.run.place/",
-  "logo": "/assets/images/Logo.png",
-  "sameAs": [
-    "https://www.facebook.com/HyperEscape",
-    "https://twitter.com/HyperEscape",
-    "https://youtube.com/c/HyperEscape"
-  ],
-  "funder": [
-  "https://robo.run.place/"
-  ]
-}
-</script>
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
