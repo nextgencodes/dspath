@@ -18,227 +18,227 @@ courses:
   - title: Classification Algorithms
     children:
       - title: "Decision Tree"
-        url: /courses/decision-tree/
+        url: /courses/classification/decision-tree/
       - title: "Decision Stump"
-        url: /courses/decision-stump/
+        url: /courses/classification/decision-stump/
       - title: "Naive Bayes"
-        url: /courses/naive-bayes/
+        url: /courses/classification/naive-bayes/
       - title: "Gaussian Naive Bayes"
-        url: /courses/gaussian-nb/
+        url: /courses/classification/gaussian-nb/
       - title: "Bernoulli Naive Bayes"
-        url: /courses/bernoulli-nb/
+        url: /courses/classification/bernoulli-nb/
       - title: "Multinomial Naive Bayes"
-        url: /courses/multinomial-nb/
+        url: /courses/classification/multinomial-nb/
       - title: "K Nearest Neighbours (KNN)"
-        url: /courses/knn/
+        url: /courses/classification/knn/
       - title: "Support Vector Machine (SVM)"
-        url: /courses/svm/
+        url: /courses/classification/svm/
       - title: "Linear Support Vector Classifier (SVC)"
-        url: /courses/svc/
+        url: /courses/classification/svc/
       - title: "NuSVC"
-        url: /courses/nusvc/
+        url: /courses/classification/nusvc/
       - title: "Stochastic Gradient Descent Classifier (SGD)"
-        url: /courses/sgd/
+        url: /courses/classification/sgd/
       - title: "Bayesian Network"
-        url: /courses/bayesian-network/
+        url: /courses/classification/bayesian-network/
       - title: "Logistic Regression"
-        url: /courses/logistic/
+        url: /courses/classification/logistic/
       - title: "Zero Rule (ZeroR)"
-        url: /courses/zeror/
+        url: /courses/classification/zeror/
       - title: "One Rule (OneR)"
-        url: /courses/oner/
+        url: /courses/classification/oner/
       - title: "Linear Discriminant Analysis (LDA)"
-        url: /courses/lda/
+        url: /courses/classification/lda/
       - title: "Quadratic Discriminant Analysis (QDA)"
-        url: /courses/qda/
+        url: /courses/classification/qda/
       - title: "Fisher's Linear Discriminant"
-        url: /courses/fsd/
+        url: /courses/classification/fsd/
   - title: Regression Analysis
     children:
       - title: "Linear Regression"
-        url: /courses/lr/
+        url: /courses/regression/lr/
       - title: "Polynomial Regression"
-        url: /courses/polyr/
+        url: /courses/regression/polyr/
       - title: "Poisson Regression"
-        url: /courses/poissonr/
+        url: /courses/regression/poissonr/
       - title: "Ordinary Least Squares (OLS) Regression"
-        url: /courses/olsr/
+        url: /courses/regression/olsr/
       - title: "Ordinal Regression"
-        url: /courses/ordinalr/
+        url: /courses/regression/ordinalr/
       - title: "Support Vector Regression"
-        url: /courses/svr/
+        url: /courses/regression/svr/
       - title: "Gradient Descent Regression"
-        url: /courses/gradientdescentr/
+        url: /courses/regression/gradientdescentr/
       - title: "Stepwise Regression"
-        url: /courses/stepwiser/
+        url: /courses/regression/stepwiser/
       - title: "Lasso Regression (Least absoulute selection and shrinkage operator)"
-        url: /courses/lassor/
+        url: /courses/regression/lassor/
       - title: "Ridge Regression (L2)"
-        url: /courses/ridger/
+        url: /courses/regression/ridger/
       - title: "Elastic Net Regression"
-        url: /courses/elasticnetr/
+        url: /courses/regression/elasticnetr/
       - title: "Bayesian Linear Regression"
-        url: /courses/bayesianlr/
+        url: /courses/regression/bayesianlr/
       - title: "Least-Angled Regression (LARS)"
-        url: /courses/lars/
+        url: /courses/regression/lars/
       - title: "Neural Network Regression"
-        url: /courses/nnr/
+        url: /courses/regression/nnr/
       - title: "Locally Estimated Scatterplot Smoothing (LOESS)"
-        url: /courses/loessr/
+        url: /courses/regression/loessr/
       - title: "Multivariate Adaptive Regression Splines (MARS)"
-        url: /courses/mars/
+        url: /courses/regression/mars/
       - title: "Locally Weighted Regression (LWL)"
-        url: /courses/lwlr/
+        url: /courses/regression/lwlr/
       - title: "Quantile Regression"
-        url: /courses/quantiler/
+        url: /courses/regression/quantiler/
       - title: "Principal Component Regression (PCR)"
-        url: /courses/pcr/
+        url: /courses/regression/pcr/
       - title: "Partial Least Squares Regression"
-        url: /courses/plsr/
+        url: /courses/regression/plsr/
   - title: Neural Networks
     children:
       - title: "Perceptron"
-        url: /courses/perceptron/
+        url: /courses/nn/perceptron/
       - title: "Multilayer Perceptron (MLP)"
-        url: /courses/mlp/
+        url: /courses/nn/mlp/
       - title: "Recurrent Neural Network (RNN)"
-        url: /courses/rnn/
+        url: /courses/nn/rnn/
       - title: "Convolutional Neural Network (CNN)"
-        url: /courses/cnn/
+        url: /courses/nn/cnn/
       - title: "Deep Belief Network (DBN)"
-        url: /courses/dbn/
+        url: /courses/nn/dbn/
       - title: "Hopfield Networks"
-        url: /courses/hopfield/
+        url: /courses/nn/hopfield/
       - title: "Learning Vector Quantization (LVQ)"
-        url: /courses/lvq/
+        url: /courses/nn/lvq/
       - title: "Stacked Autoencoder"
-        url: /courses/stackedencoder/
+        url: /courses/nn/stackedencoder/
       - title: "Boltzmann Machine"
-        url: /courses/boltzmann/
+        url: /courses/nn/boltzmann/
       - title: "Restricted Boltzmann Machine (RBM)"
-        url: /courses/rbm/
+        url: /courses/nn/rbm/
       - title: "Generative Adversarial Networks (GANs)"
-        url: /courses/gan/
+        url: /courses/nn/gan/
       - title: "Variational Autoencoder (VARs)"
-        url: /courses/var/
+        url: /courses/nn/var/
       - title: "Long Short-Term Memory"
-        url: /courses/lstm/
+        url: /courses/nn/lstm/
   - title: Anomaly Detection
     children:
       - title: "Isolation Forest"
-        url: /courses/isolation-forest/
+        url: /courses/anomaly/isolation-forest/
       - title: "Once Class SVM"
-        url: /courses/OcSVM/
+        url: /courses/anomaly/OcSVM/
       - title: "PCA-Based Anomaly Detection"
-        url: /courses/pca-anomaly/
+        url: /courses/anomaly/pca-anomaly/
       - title: "Fast-MCD"
-        url: /courses/fast-mcd/
+        url: /courses/anomaly/fast-mcd/
       - title: "Local Outlier Factor (LOF)"
-        url: /courses/lof/
+        url: /courses/anomaly/lof/
   - title: Dimensionality Reduction
     children:
       - title: "Singular Value Decomposition (SVD)"
-        url: /courses/svd/
+        url: /courses/dimensionality/svd/
       - title: "Forward Feature Selection"
-        url: /courses/forwardfeatures/
+        url: /courses/dimensionality/forwardfeatures/
       - title: "Backward Feature Elemination"
-        url: /courses/backward-feature/
+        url: /courses/dimensionality/backward-feature/
       - title: "Subset Selection"
-        url: /courses/subsetselection/
+        url: /courses/dimensionality/subsetselection/
       - title: "Principal Component Analysis (PCA)"
-        url: /courses/pca
+        url: /courses/dimensionality/pca
       - title: "Partial Least Squares Regression (PLSR)"
-        url: /courses/plsr/
+        url: /courses/dimensionality/plsr/
       - title: "Latent Dirichlet Analysis (LDA)"
-        url: /courses/lda/
+        url: /courses/dimensionality/lda/
       - title: "Regularized Discriminant Analysis (RDA)"
-        url: /courses/rda/
+        url: /courses/dimensionality/rda/
       - title: "t-Distributed Stochastic Neighbor Embedding (t-SNE)"
-        url: /courses/tsne/
+        url: /courses/dimensionality/tsne/
       - title: "Factor Analysis"
-        url: /courses/factor-analysis/
+        url: /courses/dimensionality/factor-analysis/
       - title: "Multidimensional Scaling (MDS)"
-        url: /courses/mds/
+        url: /courses/dimensionality/mds/
       - title: "AutoEncoder"
-        url: /courses/autoencoder/
+        url: /courses/dimensionality/autoencoder/
       - title: "Independent Component Analysis (ICA)"
-        url: /courses/ica/
+        url: /courses/dimensionality/ica/
       - title: "Isomap"
-        url: /courses/isomap/
+        url: /courses/dimensionality/isomap/
       - title: "Local Linear Embedding (LLE)"
-        url: /courses/lle/
+        url: /courses/dimensionality/lle/
       - title: "Locality-Sensitive Hashing"
-        url: /courses/localitysensitive/
+        url: /courses/dimensionality/localitysensitive/
       - title: "Sammon Mapping"
-        url: /courses/sammon/
+        url: /courses/dimensionality/sammon/
   - title: Ensemble
     children:
       - title: "Random Forest"
-        url: /courses/random-forest/
+        url: /courses/ensemble/random-forest/
       - title: "Bagging (Bootstrap Aggregation)"
-        url: /courses/bagging/
+        url: /courses/ensemble/bagging/
       - title: "AdaBoost"
-        url: /courses/adaboost/
+        url: /courses/ensemble/adaboost/
       - title: "Gradient Boosting"
-        url: /courses/gradient-boosting/
+        url: /courses/ensemble/gradient-boosting/
       - title: "Gradient Boosted Regression Trees"
-        url: /courses/gradient-boosting-tree
+        url: /courses/ensemble/gradient-boosting-tree
       - title: "XGBoost (Extreme Gradient Boosting)"
-        url: /courses/xgboost/
+        url: /courses/ensemble/xgboost/
       - title: "Voting Classifier"
-        url: /courses/voting-classifier/
+        url: /courses/ensemble/voting-classifier/
       - title: "Extremely Randomized Trees"
-        url: /courses/ert/
+        url: /courses/ensemble/ert/
       - title: "Boosted Decision Tree"
-        url: /courses/boosteddt/
+        url: /courses/ensemble/boosteddt/
       - title: "Category Boosting (CatBoost)"
-        url: /courses/category-boosting/
+        url: /courses/ensemble/category-boosting/
       - title: "Stacked Generalization (Stacking)"
-        url: /courses/stacking/
+        url: /courses/ensemble/stacking/
   - title: Clustering
     children:
       - title: "K-Means Clustering"
-        url: /courses/kmeans/
+        url: /courses/clustering/kmeans/
       - title: "K-Medians Clustering"
-        url: /courses/kmedian/
+        url: /courses/clustering/kmedian/
       - title: "Mean Shift Clustering"
-        url: /courses/meanshift/
+        url: /courses/clustering/meanshift/
       - title: "K-Modes Clustering"
-        url: /courses/kmodes/
+        url: /courses/clustering/kmodes/
       - title: "Fuzzy K-Modes"
-        url: /courses/fuzzy-kmodes/
+        url: /courses/clustering/fuzzy-kmodes/
       - title: "Fuzzy C-Means"
-        url: /courses/fuzzy-cmeans/
+        url: /courses/clustering/fuzzy-cmeans/
       - title: "Mini Batch K-Means Clustering"
-        url: /courses/minibatch-kmeans/
+        url: /courses/clustering/minibatch-kmeans/
       - title: "Hierarchical Clustering"
-        url: /courses/hierarchical/
+        url: /courses/clustering/hierarchical/
       - title: "Expectation Maximization"
-        url: /courses/expectation-max/
+        url: /courses/clustering/expectation-max/
       - title: "DBSCAN"
-        url: /courses/dbscan/
+        url: /courses/clustering/dbscan/
       - title: "Minimum Spanning Trees"
-        url: /courses/minimum-spantree/
+        url: /courses/clustering/minimum-spantree/
       - title: "Quality Threshold"
-        url: /courses/quality-threshold/
+        url: /courses/clustering/quality-threshold/
       - title: "Gaussian Mixture Model (GMM)"
-        url: /courses/gmm/
+        url: /courses/clustering/gmm/
       - title: "Spectral Clustering"
-        url: /courses/spectral-clustering/
+        url: /courses/clustering/spectral-clustering/
   - title: Association Rule Learning
     children:
       - title: "Apriori"
-        url: /courses/apriori/
+        url: /courses/association/apriori/
       - title: "Eclat"
-        url: /courses/eclat/
+        url: /courses/association/eclat/
   - title: Regularization
     children:
       - title: "LASSO Regularization"
-        url: /courses/lasso/
+        url: /courses/regularization/lasso/
       - title: "Ridge Regularization"
-        url: /courses/ridge/
+        url: /courses/regularization/ridge/
       - title: "Elastic Net Regularization"
-        url: /courses/elastic-net/
+        url: /courses/regularization/elastic-net/
 
 
 # documentation links

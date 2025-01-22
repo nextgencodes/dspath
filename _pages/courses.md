@@ -1,6 +1,5 @@
 ---
 title: "Courses"
-layout: categories
+layout: default
 permalink: /courses/
-author_profile: false
 ---
