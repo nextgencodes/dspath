@@ -49,10 +49,11 @@ jobs:
       - name: Bundle Install
         run: bundle install
 
+      - name: Set Environment
+        run: set JEKYLL_ENV=production
+        
       - name: Build Jekyll
         run: bundle exec jekyll build
-        env:
-            JEKYLL_ENV: production
         
       # - name: Build Jekyll for GitHub Pages
       #   uses: actions/jekyll-build-pages@v1.0.13
