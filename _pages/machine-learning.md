@@ -2,5 +2,6 @@
 layout: splash
 permalink: /machine-learning/
 ---
+{{ content }}
 
-content will be added soon
+{% include posts-taxonomy.html taxonomies=site.categories %}
