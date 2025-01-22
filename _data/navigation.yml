@@ -14,7 +14,7 @@ main:
 
 
 # course links
-courses:
+courselist:
   - title: Classification Algorithms
     children:
       - title: "Decision Tree"
