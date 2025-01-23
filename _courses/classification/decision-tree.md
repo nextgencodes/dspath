@@ -18,7 +18,7 @@ Decision Trees (DTs) are a non-parametric **supervised learning** method used fo
 The internal nodes represent the features of a dataset and branches represents the decision rules. Each leaf node represents the outcome.
 
 {% capture fig_img %}
-![Decision Tree]({{ '/assets/images/courses/Decision_tree_for_playing_outside.png' | relative_url }}){:width="50%"}
+![Decision Tree]({{ '/assets/images/courses/Decision_tree_for_playing_outside.webp' | relative_url }}){:width="50%"}
 {% endcapture %}
 
 <figure>
