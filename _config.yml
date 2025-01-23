@@ -79,10 +79,10 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : 31e0e6a6cbcca4b1e # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : UBXpjlR4LRkpSzcNFgYfG1BZxjyVusq9_7PmZzVEaqY
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -312,10 +312,10 @@ compress_html:
     envs: development
 
 # # # Collections
-# collections:
-#   courseposts:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+  courses:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -327,6 +327,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      strip_title: true
       comments: # true
       share: true
       related: true
@@ -338,6 +339,7 @@ defaults:
       read_time: true
       author_profile: false
       share: true
+      strip_title: true
       comments: true
       toc_sticky: true
       toc_label: "Page Content"

@@ -1,10 +1,16 @@
 ---
 title: Decision Tree
 excerpt: "Decision Tree Algorithm"
-permalink: /courses/classification/decision-tree/
+# permalink: /courses/classification/decision-tree/
 last_modified_at: 2025-01-22T23:45:00-00:00
 hidden: false
-tag: Machine Learning, Classification Model, Tree Model, Supervised Learning
+categories:
+  - Machine Learning
+tags: 
+  - Machine Learning
+  - Classification Model
+  - Tree Model
+  - Supervised Learning
 ---
 
 ## Introduction
