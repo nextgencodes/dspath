@@ -5,7 +5,9 @@
 {% include copyright.html %}
 <html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
   <head>
-    <meta name="google-site-verification" content="s8e6T0wrjysCntWoaJLan5agKh3ocIvu2GYZ_wLT87c" />
+    {% include google-site-verification.html %}
+    {% include yandex-metrika.html %}
+    {% include /analytics-providers/google-gtag.html %}
     {% include head.html %}
     {% include head/custom.html %}
   </head>
@@ -31,7 +33,6 @@
         {% include_cached footer.html %}
       </footer>
     </div>
-    {% include /analytics-providers/google-gtag.html %}
     {% include scripts.html %}
   </body>
 </html>
