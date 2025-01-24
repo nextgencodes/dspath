@@ -4,11 +4,11 @@
 
 #main {
   @include clearfix;
-  margin-inline: auto;
+  margin-inline: inherit;
   padding-inline: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  max-width: 100%;
+  max-width: inherit;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -42,7 +42,8 @@ body {
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: $right-sidebar-width;
+    padding-inline-end: inherit; //$right-sidebar-width;
+    padding-right: 70px;
   }
 
   .page__inner-wrap {
@@ -184,7 +185,7 @@ body {
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0;
+    padding: 2em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
