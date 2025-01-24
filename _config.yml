@@ -342,8 +342,8 @@ defaults:
       strip_title: true
       comments: true
       toc_sticky: true
-      toc_label: "Page Content"
-      toc_icon: "cog"
+      toc_label: "Teleport from here"
+      toc_icon: "ghost"
       toc: true
       sidebar:
         nav: "courselist"

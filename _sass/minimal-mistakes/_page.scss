@@ -4,11 +4,11 @@
 
 #main {
   @include clearfix;
-  margin-inline: inline; // delhiiitian auto
+  margin-inline: inherit; // delhiiitian inherit
   padding-inline: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  max-width: inherit;
+  max-width: inherit; // delhiiitian inherit
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -54,7 +54,7 @@ img[alt=png-medium] {
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: inherit; // delhiiitian $right-sidebar-width;
+    padding-inline-end:  $right-sidebar-width; // delhiiitian $right-sidebar-width;
     padding-right: 70px; // delhiiitian
   }
 
