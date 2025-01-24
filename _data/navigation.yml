@@ -7,8 +7,8 @@ main:
     url: /projects/
   - title: "External Resources"
     url: /external/
-  - title: "Donate"
-    url: /donate/
+  # - title: "Donate"
+  #   url: /donate/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 

@@ -8,6 +8,8 @@ comments: true
 search: true
 toc: true
 toc_sticky: true
+toc_label: "Teleport from here"
+toc_icon: "ghost"
 strip_title: true
 sidebar:
   nav: courselist
