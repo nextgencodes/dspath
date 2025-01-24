@@ -4,7 +4,7 @@
 
 #main {
   @include clearfix;
-  margin-inline: inherit;
+  margin-inline: auto; // delhiiitian inline
   padding-inline: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -42,8 +42,8 @@ body {
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: inherit; //$right-sidebar-width;
-    padding-right: 70px;
+    padding-inline-end: $right-sidebar-width; // inherit;
+    // padding-right: 70px;
   }
 
   .page__inner-wrap {
