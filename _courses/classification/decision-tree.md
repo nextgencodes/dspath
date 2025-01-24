@@ -5,6 +5,7 @@ excerpt: "Decision Tree Algorithm"
 last_modified_at: 2025-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
+strip_title: true
 categories:
   - Machine Learning
 tags: 
@@ -14,25 +15,25 @@ tags:
   - Supervised Learning
 ---
 
-# Decision Trees: A Simple Guide to Making Predictions with Data
+<!-- # Decision Trees: A Simple Guide to Making Predictions with Data -->
 
 ## Introduction: Making Choices Like a Flowchart
 
-Imagine you are playing a game where you need to guess an animal. You might start by asking questions like: "Does it have fur?". Based on the answer, you might ask another question, such as "Does it live in the water?". You keep asking questions, making decisions, until you reach an answer. This step-by-step way of making decisions is how a **Decision Tree** works in machine learning.
+Imagine you are playing a game where you need to guess an animal. You might start by asking questions like: "Does it have fur?". Based on the answer, you might ask another question, such as "Does it live in the water?". You keep asking questions, making decisions, until you reach an answer. This step-by-step way of making decisions is how a ***Decision Tree*** works in machine learning.
 
-A Decision Tree is a popular type of machine learning algorithm that helps us make predictions or decisions by creating a tree-like structure.  It's a **supervised learning** algorithm, meaning it learns from data that has already been labeled.
+A Decision Tree is a popular type of machine learning algorithm that helps us make predictions or decisions by creating a tree-like structure.  It's a ***supervised learning*** algorithm, meaning it learns from data that has already been labeled.
 
 Decision trees are used for two main tasks:
 
-*   **Classification:**  Sorting data into different groups or categories. For example, predicting if an email is spam or not spam, or classifying different types of flowers.
-*   **Regression:** Predicting a continuous value or number. For example, predicting the price of a house or the temperature tomorrow.
+*   ***Classification:***  Sorting data into different groups or categories. For example, predicting if an email is spam or not spam, or classifying different types of flowers.
+*   ***Regression:*** Predicting a continuous value or number. For example, predicting the price of a house or the temperature tomorrow.
 
 **Real-World Examples:**
 
-*   **Medical Diagnosis:** Doctors use a similar process when diagnosing an illness. They ask about symptoms ("Do you have a fever?", "Do you have a cough?") and make decisions about the cause. In fact, decision tree algorithms are also used to help doctors make these diagnoses more effectively by analyzing large sets of medical data and giving an accurate diagnosis.
-*  **Loan Approval:** Banks use decision trees to decide whether to approve a loan. They look at factors like income, credit score, and previous loan history. By using a decision tree model, banks can make informed decisions to approve or reject a loan.
-*   **Customer Churn Prediction:** Mobile companies use decision trees to figure out which customers are likely to switch to another provider. They consider things like data usage, calling habits, and customer service interactions. This enables companies to contact those specific customers before they decide to switch, or provide some discounts to keep them with the same company.
-*   **Fraud Detection:** Banks and other financial institutions can use a decision tree algorithm to detect fraudulent transactions based on different features such as time of transaction, location of transaction etc.
+*   ***Medical Diagnosis:*** Doctors use a similar process when diagnosing an illness. They ask about symptoms ("Do you have a fever?", "Do you have a cough?") and make decisions about the cause. In fact, decision tree algorithms are also used to help doctors make these diagnoses more effectively by analyzing large sets of medical data and giving an accurate diagnosis.
+*   ***Loan Approval:*** Banks use decision trees to decide whether to approve a loan. They look at factors like income, credit score, and previous loan history. By using a decision tree model, banks can make informed decisions to approve or reject a loan.
+*   ***Customer Churn Prediction:*** Mobile companies use decision trees to figure out which customers are likely to switch to another provider. They consider things like data usage, calling habits, and customer service interactions. This enables companies to contact those specific customers before they decide to switch, or provide some discounts to keep them with the same company.
+*   ***Fraud Detection:*** Banks and other financial institutions can use a decision tree algorithm to detect fraudulent transactions based on different features such as time of transaction, location of transaction etc.
 
 ## The Mathematics Behind Decision Trees: Splitting the Data
 
@@ -40,20 +41,20 @@ Decision trees use math to decide how to split the data into different branches.
 
 ### Entropy and Information Gain
 
-At the core of building a decision tree is the concept of **information gain**, which is based on a measure called **entropy**. Think of entropy as the "messiness" or "disorder" in the data. If all the items are of the same type, there is no messiness and the entropy is zero. But when the items are mixed up, we have high entropy. 
+At the core of building a decision tree is the concept of ***information gain***, which is based on a measure called ***entropy***. Think of entropy as the "messiness" or "disorder" in the data. If all the items are of the same type, there is no messiness and the entropy is zero. But when the items are mixed up, we have high entropy. 
 
 Here is how we calculate entropy:
 
-The formula for Entropy, $E(S)$, is given by:
+The formula for Entropy, $$ E(S) $$, is given by:
 
 $$
-H(S) = -\sum_{i=1}^{c} p_i \log_2 p_i
+E(S) = -\sum_{i=1}^{c} p_i \log_2 p_i
 $$
 
 where:
-*   **H(S):** Entropy of the set S
-*   **pi:**  The proportion of data points in set S that belong to category "i". For instance, if we have 10 cats and 10 dogs, the proportion of cats is 0.5.
-*   **log2**: The logarithm with base 2. This is how to calculate it:  If $$ log_2 8 = y $$ then $$ {2}^{y} = 8 $$. Here, $$ y = 3$$ , because $$ 2^3 = 8 $$.
+*   ***E(S):*** Entropy of the set S
+*   ***pi:***  The proportion of data points in set S that belong to category "i". For instance, if we have 10 cats and 10 dogs, the proportion of cats is 0.5.
+*   ***log2***: The logarithm with base 2. This is how to calculate it:  If $$ log_2 8 = y $$ then $$ {2}^{y} = 8 $$. Here, $$ y = 3$$ , because $$ 2^3 = 8 $$.
 
 Let's make it simple with an example. Imagine you have a bag of 10 balls, and 5 are red and 5 are blue.
 
@@ -63,10 +64,9 @@ Let's make it simple with an example. Imagine you have a bag of 10 balls, and 5 
 4. Entropy, H(S) = -(-0.5 + -0.5) = 1.  
 If there are all red balls, then it will be 0. 
 
-Information Gain (IG) tells you how much a particular question (like "Is it raining?") helps reduce uncertainty in our data. 
-Here is the information gain equation:
+Information Gain (IG) tells you how much a particular question (like "Is it raining?") helps reduce uncertainty in our data.
 
-*   **Measure the reduction in Entropy** before and after a split on a subset **S** using the attribute **A**.
+*   ***Measure the reduction in Entropy*** before and after a split on a subset ***S*** using the attribute ***A***.
     
     $$
     IG(S,A) = E(S) - \sum_{v \in Values(A)} \frac{|S_v|}{|S|} * E(S_v)
@@ -93,10 +93,10 @@ Before you build a decision tree, here are some things you need:
 1.  **Data:** You need data where you know both the inputs (features) and the answer (target). This is called "labeled data."
 2.  **Basic Math:** Familiarity with basic math concepts like percentages and logarithms can help you grasp the formulas, but it's not essential to use the decision trees.
 3. **Python Libraries:**
-    *   **`scikit-learn`:** The most common library for building machine learning models in Python.
-    *   **`pandas`:** Makes it easy to work with tabular data (like spreadsheets).
-    *   **`numpy`:** Helps with math functions.
-    *  **`matplotlib` or `seaborn`:** For visualizing data (optional).
+    *   ***`scikit-learn`:*** The most common library for building machine learning models in Python.
+    *   ***`pandas`:*** Makes it easy to work with tabular data (like spreadsheets).
+    *   ***`numpy`:*** Helps with math functions.
+    *  ***`matplotlib` or `seaborn`:*** For visualizing data (optional).
 
 To install these, open your terminal or command prompt and run:
 
@@ -109,37 +109,37 @@ Tweakable Parameters and Hyperparameters
 
 Decision Trees have many parameters you can adjust to control how they learn. These are also known as hyperparameters. Here are some key ones:
 
-*   **max\_depth:** This controls how deep or tall the tree can get.
+*   ***max\_depth:*** This controls how deep or tall the tree can get.
     
     *   **Effect:** A small max\_depth makes a simple tree, which may not capture all the complexity in the data (underfitting). But it will be very general. A large max\_depth can make the tree too specific to the training data and perform badly on new data (overfitting).
         
     *   **Example:** max\_depth = 3 for a simple dataset, max\_depth = 10 for more complex data (but needs careful tuning to avoid overfitting).
         
-*   **min\_samples\_split:** The smallest number of data points you need to split a node.
+*   ***min\_samples\_split:*** The smallest number of data points you need to split a node.
     
     *   **Effect:** A higher value prevents tiny nodes from splitting, making the tree simpler and avoiding very specific patterns in the data.
         
     *   **Example:** min\_samples\_split = 20 will prevent a split if there are less than 20 data points at that point.
         
-*   **min\_samples\_leaf:** The smallest number of data points that should be in any leaf (final) node.
+*   ***min\_samples\_leaf:*** The smallest number of data points that should be in any leaf (final) node.
     
     *   **Effect:** Prevents creating very small leaf nodes which are not generalizable to new data and avoids overfitting.
         
     *   **Example:** min\_samples\_leaf = 5
         
-*   **criterion:** The formula used to measure how good a split is. For classification, use 'gini' or 'entropy'. For regression, use 'mse' (mean squared error) or 'mae' (mean absolute error).
+*   ***criterion:*** The formula used to measure how good a split is. For classification, use 'gini' or 'entropy'. For regression, use 'mse' (mean squared error) or 'mae' (mean absolute error).
     
     *   **Effect:** gini calculates the probability of misclassification, where entropy is the measure of randomness. Mean squared error penalizes larger error more than mean absolute error.
         
     *   **Example:** Use criterion='gini' or criterion='entropy' for classification and criterion='mse' for regression.
         
-*   **max\_features:** The number of features to consider for each split. Can be a number or a percentage of total features.
+*   ***max\_features:*** The number of features to consider for each split. Can be a number or a percentage of total features.
     
     *   **Effect:** Use when dataset contains too many features.
         
     *   **Example** max\_features=0.5 will consider 50% of total features in the dataset.
         
-*   **random\_state:** Set a number for this if you want the code to give the same result every time you run it.
+*   ***random\_state:*** Set a number for this if you want the code to give the same result every time you run it.
     
 
 Data Preprocessing
@@ -147,13 +147,13 @@ Data Preprocessing
 
 Decision trees are flexible and don't need much data preprocessing, but here's what to consider:
 
-*   **No Need to Normalize or Scale:** Decision trees use the order of the values and not the actual values for making decision. Therefore, scaling or normalization is not required.
+*   ***No Need to Normalize or Scale:*** Decision trees use the order of the values and not the actual values for making decision. Therefore, scaling or normalization is not required.
     
-*   **Missing Values:** You can try to fill in missing values or remove the rows with missing values. Decision trees can also handle it natively, but preprocessing may improve model performance.
+*   ***Missing Values:*** You can try to fill in missing values or remove the rows with missing values. Decision trees can also handle it natively, but preprocessing may improve model performance.
     
-*   **Categorical Variables:** Convert categorical data to numerical data. Methods for doing this are one-hot encoding or label encoding.
+*   ***Categorical Variables:*** Convert categorical data to numerical data. Methods for doing this are one-hot encoding or label encoding.
     
-*   **Outliers:** Decision Trees are relatively insensitive to outliers, so outlier handling is not that important for tree models.
+*   ***Outliers:*** Decision Trees are relatively insensitive to outliers, so outlier handling is not that important for tree models.
     
 
 **Example:** If you want to predict the type of car based on color (red, blue, black) and speed (mph), you need to convert the color to numbers. Speed, being a number is fine as it is, and does not require any preprocessing like normalization.
@@ -746,8 +746,8 @@ plt.show()
 
 Output:
 
-![png](/assets/images/courses/dt_output_9_0.png)
-    
+{% include figure popup=true image_path="/assets/images/courses/dt_output_8_0.png" caption="Confusion Matrix" %}
+
 
 
 ```python
@@ -759,7 +759,7 @@ plt.show()
 
 Output:
 
-![png](/assets/images/courses/dt_output_9_0.png)
+{% include figure popup=true image_path="/assets/images/courses/dt_output_9_0.png" caption="Visualizing decision tree model" %}
 
 **Explanation:**
 
@@ -865,7 +865,56 @@ Output
     [[2 0]
      [0 1]]
     
+## Model Evaluation Metrics
+Besides accuracy, other metrics can give you better insights:
+
+* ***Accuracy:*** The overall percentage of correct predictions.
+
+<p align="center">
+$$
+\text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}}
+$$
+</p>
+* ***Precision:*** Out of all the predicted positive cases, how many are actually positive.
+<p align="center">
+$$
+\text{Precision} = \frac{\text{True Positives}}{\text{True Positives + False Positives}}
+$$
+</p>
+* ***Recall:*** Of all the actual positive cases, how many were predicted correctly.
+<p align="center">
+$$
+\text{Recall} = \frac{\text{True Positives}}{\text{True Positives + False Negatives}}
+$$
+</p>
+* ***F1-Score:*** A balance between precision and recall.
+<p align="center">
+$$
+\text{F1-Score} = 2 * \frac{\text{Precision} * \text{Recall}}{\text{Precision + Recall}}
+$$
+</p>
+* ***Confusion Matrix:*** Shows a more detailed break down of right/wrong predictions for each class
+* ***ROC Curve and AUC:*** (For classification) Shows the performance of the classifier at different thresholds.
+
+##  Model Productionizing
     
-![png](/assets/images/courses/output_9_0.png)
-
-
+  Putting the model to use:
+    
+*   ***Save the Model:*** Use joblib or pickle to save your trained model.
+    
+*   ***Create an API:*** Make an API using Flask or FastAPI to use your model.
+    
+*   ***Cloud Deployment:*** Deploy it on AWS, Google Cloud, or Azure.
+    
+*   ***On-Premise Deployment:*** Deploy it on company servers if you need.
+    
+*   ***Testing & Monitoring:*** Thorough testing before going live and constant monitoring is very important.
+    
+##   Conclusion
+    
+  Decision Trees are easy to understand and versatile. They are used in a variety of industries for various tasks. They provide a great starting point to understand machine learning, and are still being used for simpler problems where high performance is not very important. Many advanced algorithms such as Random Forest, Gradient boosting are based on the base of decision tree algorithm. Though these newer algorithms are now becoming popular, decision trees are still valuable for solving many real-world problems.
+    
+##  References
+    
+1. Entropy in Machine Learning: [https://www.geeksforgeeks.org/entropy-information-gain-and-gini-index/](https://www.google.com/url?sa=E&q=https://www.geeksforgeeks.org/entropy-information-gain-and-gini-index/)
+2. Decision tree learning: [https://en.wikipedia.org/wiki/Decision\_tree\_learning](https://www.google.com/url?sa=E&q=https://en.wikipedia.org/wiki/Decision_tree_learning)

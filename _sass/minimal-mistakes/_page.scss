@@ -4,7 +4,7 @@
 
 #main {
   @include clearfix;
-  margin-inline: auto; // delhiiitian inline
+  margin-inline: inline; // delhiiitian auto
   padding-inline: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -28,6 +28,18 @@ body {
           flex-direction: column;
 }
 
+img[alt=png-small] {
+   width: 200px; 
+  }
+
+img[alt=png-medium] {
+  width: 500px; 
+  }
+
+  img[alt=png-large] {
+  width: 700px; 
+  }
+
 .initial-content,
 .search-content {
   flex: 1 0 auto;
@@ -42,8 +54,8 @@ body {
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: $right-sidebar-width; // inherit;
-    // padding-right: 70px;
+    padding-inline-end: inherit; // delhiiitian $right-sidebar-width;
+    padding-right: 70px; // delhiiitian
   }
 
   .page__inner-wrap {
