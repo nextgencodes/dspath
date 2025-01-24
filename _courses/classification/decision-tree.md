@@ -335,7 +335,7 @@ model.fit(X_train, y_train)
      so we also need the `!important` here to be able to override the
      default hidden behavior on the sphinx rendered scikit-learn.org.
      See: https://github.com/scikit-learn/scikit-learn/issues/21755 */
-  display: inline-block !important;
+  display: inherit;
   position: relative;
 }
 
