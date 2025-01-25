@@ -165,6 +165,11 @@ footer:
 include:
   - .htaccess
   - _pages
+<<<<<<< HEAD
+=======
+  - _courses
+  - _projects
+>>>>>>> 1ddd37d7135456a5b737421bf36cc25f12ff8953
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -258,7 +263,10 @@ pagination:
 
 # Plugins (previously gems:)
 plugins:
+<<<<<<< HEAD
   - jekyll-redirect-from
+=======
+>>>>>>> 1ddd37d7135456a5b737421bf36cc25f12ff8953
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -316,9 +324,12 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
+<<<<<<< HEAD
   projects:
     output: true
     permalink: /:collection/:path/
+=======
+>>>>>>> 1ddd37d7135456a5b737421bf36cc25f12ff8953
 
 # Defaults
 defaults:
@@ -349,6 +360,7 @@ defaults:
       toc_icon: "ghost"
       toc: true
       sidebar:
+<<<<<<< HEAD
         nav: "courselist"
   - scope:
       path: "_projects"
@@ -365,3 +377,6 @@ defaults:
       toc: true
       sidebar:
         nav: "projectlist"
+=======
+        nav: "courselist"
+>>>>>>> 1ddd37d7135456a5b737421bf36cc25f12ff8953

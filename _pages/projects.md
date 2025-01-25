@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: courses
 permalink: /projects/
 read_time: false
@@ -30,3 +31,10 @@ Ready to take your data science and machine learning skills to the next level? T
 
 ## Unlock Your Potential
 Use this page as your personal industrial level training ground, where you can gain real world experience and knowledge. Ready to get started? Let's jump in!
+=======
+layout: single
+permalink: /projects/
+---
+
+Content will be added soon
+>>>>>>> 1ddd37d7135456a5b737421bf36cc25f12ff8953
