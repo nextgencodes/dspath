@@ -1,0 +1,6 @@
+<div style="text-align: right;">
+  <a href="/assets/codes/{{ include.file }}" style="font-size: 0.8em; text-decoration: none; color: #007bff;" alt="{{ include.alt }}">
+    {{ include.text }}
+    <i class="fa fa-download" style="margin-left: 5px;"></i>
+  </a>
+</div>

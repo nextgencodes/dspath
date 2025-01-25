@@ -1,18 +1,32 @@
+# Vim
+*~
+*.sw[p_]
 
-# Created by https://www.toptal.com/developers/gitignore/api/jekyll
-# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll
+# IntelliJ IDEA
+*.idea
 
-### Jekyll ###
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-.bundle/
-.icloud
-.DS_Store
-Gemfile.lock
-vendor/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ruby Gem
 *.gem
-*.rb
+.bundle
+Gemfile.lock
+**/vendor/bundle
 
-# End of https://www.toptal.com/developers/gitignore/api/jekyll
+# Node.js and NPM
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
+
+# macOS
+.DS_Store
+
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site

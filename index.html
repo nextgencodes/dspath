@@ -1,37 +1,70 @@
 ---
-layout: splash-home
-hidden: true
+title: "HyperEscape | Data Science & ML Blog | Learn & Grow
+"
+layout: splash
+permalink: /
+date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000000"
+  overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/AI-home.jpg
+  overlay_image: /assets/images/home/ai-home.webp
   caption: ""
-  <!-- actions:
-    - label: "<i class='fas fa-microphone'></i> Email Feeds"
-      url: "https://podcast.robo.run.place/"
-    - label: "<i class='fas fa-microphone'></i> Read Latest Article"
-      url: "https://goodfaithmedia.org/doctrine-of-christian-discovery/"
-    - label: "<i class='fas fa-calendar'></i> View live Schedule"
-      url: "/blog/conference-schedule/"  
-excerpt: >
-  The journey to technology development<br /> -->
-    <!--<small><a href="/blog/religious-origins-white-supremacy/">Read the Call for Papers.</a></small>-->
+excerpt: "Delve into the exciting world of data science and machine learning with our extensive library of tutorials and blog content. From foundational concepts to cutting-edge research, we cover it all. Discover the nuances of statistical modeling, predictive analytics, and artificial intelligence. Whether you are looking to learn a new skill or stay up-to-date with the latest trends, our site provides the resources you need to succeed in this ever-evolving field."
+intro: 
+  - excerpt: 'Welcome to the learning journey. This site is absolutely **free**. '
 feature_row:
-  - image_path: /assets/images/Machine_learning_workflow_diagram.png
+  - image_path: assets/images/home/ml.webp
     alt: "Machine Learning"
     title: "Machine Learning"
-    excerpt: "Complete Machine Learning Course"
-    url: "/machine-learning/"
-    btn_class: "btn--primary"
+    excerpt: "Start learning ML concepts"
     btn_label: "Start Learning"
-  - image_path: /assets/images/deep_neural_network.png
+    btn_class: "btn--primary"
+    url: "/machine-learning/"
+  - image_path: /assets/images/home/dl.webp
     alt: "Deep Learning"
     title: "Deep Learning"
-    excerpt: "Complete Deep Learning Course"
+    excerpt: "Want to start with Deep Learning?"
     url: "/deep-learning/"
-    btn_class: "btn--primary"
     btn_label: "Start Learning"
-
+    btn_class: "btn--primary"
+  - image_path: /assets/images/home/embedded.webp
+    title: "Embedded"
+    excerpt: "Learn about Embedded programming"
+    url: "embedded"
+    btn_label: "Start Learning"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/home/project2.webp
+    alt: "Projects"
+    title: "Projects"
+    excerpt: 'Find here practical projects. These projects are built to solve real problems.'
+    url: "projects"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/home/coming-soon.webp
+    alt: "coming soon"
+    title: "Coming Soon"
+    excerpt: 'The content will be added soon.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/home/coming-soon.webp
+    alt: "coming soon"
+    title: "Coming Soon"
+    excerpt: 'The content will be added soon.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
+{% include feature_row id="intro" type="center" %}
+
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}

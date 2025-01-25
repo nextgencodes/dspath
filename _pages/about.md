@@ -1,57 +1,18 @@
 ---
-title: "About"
-date: 2024-06-11T00:34:30-04:00
-author: AGT Admin
-author_profile: true
-suggestedcitiation: true
 permalink: /about/
-sidebar:
-  - title: "Next Steps"
-    image: /assets/images/colonial-contact.jpg
-    image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth"
-    text: "Learn More about the Doctrine of Discovery"
-    nav: next-steps  
+title: "About"
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.webp
+    image_path: /assets/images/mm-layout-splash.webp
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.webp
+    image_path: /assets/images/mm-layout-single-meta.webp
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.webp
+    image_path: /assets/images/mm-layout-archive.webp
+    alt: "archive layout example"
+last_modified_at: 2022-05-27T11:59:26-04:00
+toc: true
 ---
 
-## Overview
-
-[The Doctrine of Discovery](/) educational resource, is lovingly maintained by [AGT Admin](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo). It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-## Land Acknowledgement
-We begin by acknowledging with respect the Onondaga Nation, Central Fire of the Haudenosaunee Confederacy, on whose ancestral lands we now inhabit.  Wherever you are located be aware of the Indigenous Peoples on whose lands you reside.  We are mindful that the technology that makes this conference possible comes from the mineral extraction by multinational corporations, which decimate and displace Indigenous people and their land all over the world.   May the information you glean from this website motivate you to uphold Indigenous values, protect Mother Earth, Honor Indian Treaties and hold your government and various institutions accountable who stand in the way.
-
-## Contact
-If you have any questions, comments, or additions please [contact us](/contact/) <info@indigenousvalues.org>.
-
-[contact us](/contact/){: .btn .btn--primary .btn--x-large}
-
-### AGT Admin
-  - Philip P. Arnold, President of [AGT Admin](https://indigenousvalues.org)
-  - **mail:** P.O. Box 336
-  DeWitt, New York 13214-9211
-  - **email:** [info@indigenousvalues.org](mailto:info@indigenousvalues.org)
-  - **web:** [indigenousvalues.org](https://indigenousvalues.org)
-
-### Collaborators
-
-*   [American Indian Law Alliance](https://aila.ngo/)
-*   [AGT Admin](https://indigenousvalues.org/)
-*   [Onondaga Nation](http://www.onondaganation.org/)
-*   [Kanatsiohareke Mohawk Community](http://www.mohawkcommunity.com/)
-*   [Matilda Josyln Gage Foundation](http://www.matildajoslyngage.org/)
-*   [Neighbors of the Onondaga Nation](http://www.peacecouncil.net/noon/)
-*   [Quotidian: A curated blog about everyday religion](https://quotidian.pub)
-*   [Sullivan/Clinton Campaign THEN & NOW](http://sullivanclinton.com/)
-*   [Syracuse University](https://www.syracuse.edu/)
-*   [Syracuse University Department of Religion](https://artsandsciences.syracuse.edu/religion/)
-*   [Tonatierra](http://www.Tonatierra.org)
-
-### License
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-### Security
-[Verify SSL](https://www.sslshopper.com/ssl-checker.html#hostname=robo.run.place).
-
-### Web Administrator
-[**AGT**](https://adamdjbrett.com)

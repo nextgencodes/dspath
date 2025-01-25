@@ -1,173 +1,248 @@
-main:
-  - title: "Machine Learning"
-    url: /machine-learning/
-  - title: "Deep Learning"
-    url: /deep-learning/
-  - title: "Law"
-    url: /law/
-  - title: "Repudiations"
-    url: /faith-communities/
-  - title: "UN"
-    url: /united-nations/
-  - title: "Podcast"
-    url: https://podcast.robo.run.place/
-  - title: "About"
-    url: /about/
-  - title: "Featured"
-    url: /tagged/featured/  
-  - title: "Posts"
-    url: /posts/
-  - title: "Give"
-    url: /give/
-  - title: "Newsletter"
-    url: /email/ 
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Contact"
-    url: /Contact/
-  - title: "Bibliography"
-    url: /bibliography/
-  - title: "Online Resources"
-    url: /online-resources/
 
-next-steps:
-  - title: "What is it?"
-    url: /what-is-the-doctrine-of-discovery/
+# main links
+main:
+  - title: "Courses"
+    url: /courses/
+  - title: "Projects"
+    url: /projects/
+  - title: "External Resources"
+    url: /external/
+  # - title: "Donate"
+  #   url: /donate/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
+
+
+# course links
+courselist:
+  - title: Classification Algorithms
     children:
-      - title: "10 Religious Dimensions"
-        url: /10-religous-dimensions/  
-      - title: "10 Legal Dimensions"
-        url: /the-doctrine-of-discovery-the-international-law-of-colonialism/   
-      - title: "Inter Caetera: A New Translation"
-        url: /inter-caetera/  
-      - title: "Podcast"
-        url: https://podcast.robo.run.place/
-      - title: "Religious Origins of White Supremacy Conference" 
-        url: /blog/religious-origins-white-supremacy/ 
-      - title: "Manifest Destiny"
-        url: /blog/manifest-destiny/
-      - title: "Doctrine of Discovery Syllabus"
-        url:  /blog/doctrine-of-discovery-syllabus/
-  - title: "Featured"
-    url: /featured/
+      - title: "Decision Tree"
+        url: /courses/classification/decision-tree/
+      - title: "Decision Stump"
+        url: /courses/classification/decision-stump/
+      - title: "Naive Bayes"
+        url: /courses/classification/naive-bayes/
+      - title: "Gaussian Naive Bayes"
+        url: /courses/classification/gaussian-nb/
+      - title: "Bernoulli Naive Bayes"
+        url: /courses/classification/bernoulli-nb/
+      - title: "Multinomial Naive Bayes"
+        url: /courses/classification/multinomial-nb/
+      - title: "K Nearest Neighbours (KNN)"
+        url: /courses/classification/knn/
+      - title: "Support Vector Machine (SVM)"
+        url: /courses/classification/svm/
+      - title: "Linear Support Vector Classifier (SVC)"
+        url: /courses/classification/svc/
+      - title: "NuSVC"
+        url: /courses/classification/nusvc/
+      - title: "Stochastic Gradient Descent Classifier (SGD)"
+        url: /courses/classification/sgd/
+      - title: "Bayesian Network"
+        url: /courses/classification/bayesian-network/
+      - title: "Logistic Regression"
+        url: /courses/classification/logistic/
+      - title: "Zero Rule (ZeroR)"
+        url: /courses/classification/zeror/
+      - title: "One Rule (OneR)"
+        url: /courses/classification/oner/
+      - title: "Linear Discriminant Analysis (LDA)"
+        url: /courses/classification/lda/
+      - title: "Quadratic Discriminant Analysis (QDA)"
+        url: /courses/classification/qda/
+      - title: "Fisher's Linear Discriminant"
+        url: /courses/classification/fsd/
+  - title: Regression Analysis
     children:
-      - title: "City of Sherrill v. Oneida Indian Nation of New York"
-        url: /sherrill-v-oneida-opinion-of-the-court/
-      - title: "Sublimis Deus: A Brief Overview"
-        url: /papal-bulls/sublimis-deus/
-      - title: "Sublimis Deus, Pastorale Officium & Non Indecens Videtur"
-        url: /blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/
-      - title: "The U.S. Government’s Claim of a Right of Domination"
-        url: /blog/us-government-claim-domination/  
-      - title: "What Repudiations Reveal"
-        url: /blog/what-repudiations-reveal/
-      - title: "A Maya Commentary"
-        url: /blog/doctrine-discovery-maya-commentary/
-      - title: The Doctrine of Christian Discovery and Domination and the Denial of Treaty Rights
-        url: /blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/  
-      - title: "Reappraising the Doctrine of Discovery"
-        url: /blog/reapprasing-the-doctrine-discovery/  
-      - title: "Indigenous Consent: A Right Rooted in the Doctrine of Discovery"
-        url: /blog/indigenous-consent-right-rooted-doctrine-discovery/
-      - title: "Lyng v. Northwest Indian Cemetery Protective Association"
-        url: /law/lyng/
-      - title: "Animal Nations & the Doctrine of Discovery"
-        url: /blog/animals-doctrine-discovery/
-      - title: "Effectuating Renunciation: An International Effort to Provide a Pathway to Repudiate the Doctrine of Discovery"  
-        url: /blog/effectuating-renunciation-IUCN/
-      - title: "The Doctrine of Discovery and Christian Zionism"
-        url: /blog/christian-zionism/
-      - title: "Manifest Destiny"
-        url: /blog/manifest-destiny/
-      - title: "Christian Control Of Women And Mother Earth"
-        url: /blog/christian-control-women-mother-earth/
-      - title: "The Doctrine of Discovery and Christian Zionism"  
-        url: /blog/christian-zionism/
-      - title: "Superseding the Doctrine of Discovery"
-        url: /blog/1CEMANAHUAC/  
-      - title: "Doctrine of Discovery in Brazil"  
-        url: /blog/uncovering-invisible-en/
-      - title: "The Regalian Doctrine: The Philippine Case"  
-        url: /blog/philippine-doctrine-discovery/
-      - title: "The Myth of Divine Right"
-        url: /blog/divine-right/  
-      - title: "River Series"
-        url: /categories/river/  
-  - title: "Podcasts"
-    url: https://podcast.robo.run.place/
+      - title: "Linear Regression"
+        url: /courses/regression/lr/
+      - title: "Polynomial Regression"
+        url: /courses/regression/polyr/
+      - title: "Poisson Regression"
+        url: /courses/regression/poissonr/
+      - title: "Ordinary Least Squares (OLS) Regression"
+        url: /courses/regression/olsr/
+      - title: "Ordinal Regression"
+        url: /courses/regression/ordinalr/
+      - title: "Support Vector Regression"
+        url: /courses/regression/svr/
+      - title: "Gradient Descent Regression"
+        url: /courses/regression/gradientdescentr/
+      - title: "Stepwise Regression"
+        url: /courses/regression/stepwiser/
+      - title: "Lasso Regression (Least absoulute selection and shrinkage operator)"
+        url: /courses/regression/lassor/
+      - title: "Ridge Regression (L2)"
+        url: /courses/regression/ridger/
+      - title: "Elastic Net Regression"
+        url: /courses/regression/elasticnetr/
+      - title: "Bayesian Linear Regression"
+        url: /courses/regression/bayesianlr/
+      - title: "Least-Angled Regression (LARS)"
+        url: /courses/regression/lars/
+      - title: "Neural Network Regression"
+        url: /courses/regression/nnr/
+      - title: "Locally Estimated Scatterplot Smoothing (LOESS)"
+        url: /courses/regression/loessr/
+      - title: "Multivariate Adaptive Regression Splines (MARS)"
+        url: /courses/regression/mars/
+      - title: "Locally Weighted Regression (LWL)"
+        url: /courses/regression/lwlr/
+      - title: "Quantile Regression"
+        url: /courses/regression/quantiler/
+      - title: "Principal Component Regression (PCR)"
+        url: /courses/regression/pcr/
+      - title: "Partial Least Squares Regression"
+        url: /courses/regression/plsr/
+  - title: Neural Networks
     children:
-      - title: "Mapping the Doctrine of Discovery"
-        url: "https://podcast.robo.run.place"
-      - title: "Doctrine of Christian Discovery"
-        url: "https://megaphone.link/AOOOI9257433215"  
-  - title: "Law"
-    url: /law/
+      - title: "Perceptron"
+        url: /courses/nn/perceptron/
+      - title: "Multilayer Perceptron (MLP)"
+        url: /courses/nn/mlp/
+      - title: "Recurrent Neural Network (RNN)"
+        url: /courses/nn/rnn/
+      - title: "Convolutional Neural Network (CNN)"
+        url: /courses/nn/cnn/
+      - title: "Deep Belief Network (DBN)"
+        url: /courses/nn/dbn/
+      - title: "Hopfield Networks"
+        url: /courses/nn/hopfield/
+      - title: "Learning Vector Quantization (LVQ)"
+        url: /courses/nn/lvq/
+      - title: "Stacked Autoencoder"
+        url: /courses/nn/stackedencoder/
+      - title: "Boltzmann Machine"
+        url: /courses/nn/boltzmann/
+      - title: "Restricted Boltzmann Machine (RBM)"
+        url: /courses/nn/rbm/
+      - title: "Generative Adversarial Networks (GANs)"
+        url: /courses/nn/gan/
+      - title: "Variational Autoencoder (VARs)"
+        url: /courses/nn/var/
+      - title: "Long Short-Term Memory"
+        url: /courses/nn/lstm/
+  - title: Anomaly Detection
     children:
-      - title: "Fletcher v. Peck"  
-        url: /fletcher-v-peck-10-us-87-1810/
-      - title: "Johnson v. M'Intosh"
-        url: /johnson-v-mcintosh/
-      - title: "Monroe Doctrine"
-        url: /monroe-doctrine/
-      - title: "Roosevelt Corollary"
-        url: /roosevelt-corollary/
-      - title: "Lyng v. Northwest"
-        url: /law/lyng/
-      - title: "Tee-Hitton"
-        url: /tee-hit-ton/
-      - title: "Sherrill v. Oneida analysis by Joe Heath"
-        url: /blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/
-      - title: "Sherrill v. Oneida analysis by Dana Lloyd"
-        url: /sherrill-v-oneida-opinion-of-the-court/
-      - title: "Cayuga v. Pataki"
-        url: /cayuga-v-pataki/
-      - title: "Onondaga v NY"
-        url: /onondaga-nation-v-ny/
-      - title: "US Indian Law Panel"
-        url: /us-indian-law-panel/
-  - title: "Papal Bulls"    
-    url: /papal-bulls/
+      - title: "Isolation Forest"
+        url: /courses/anomaly/isolation-forest/
+      - title: "Once Class SVM"
+        url: /courses/anomaly/OcSVM/
+      - title: "PCA-Based Anomaly Detection"
+        url: /courses/anomaly/pca-anomaly/
+      - title: "Fast-MCD"
+        url: /courses/anomaly/fast-mcd/
+      - title: "Local Outlier Factor (LOF)"
+        url: /courses/anomaly/lof/
+  - title: Dimensionality Reduction
     children:
-      - title: "Dum Diversas"
-        url: /dum-diversas/
-      - title: "Romanus Pontifex"
-        url: /the-bull-romanus-pontifex-nicholas-v/
-      - title: "Inter Caetera"   
-        url: /inter-caetera/
-      - title: "Sublimis Dei"  
-        url: /blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/
-  - title: "Repudiations by Faith Communities"
-    url: /faith-communities/
-  - title: "UN"
-    url: /united-nations/
-  - title: "Canopy Series"
-    url: https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/
+      - title: "Singular Value Decomposition (SVD)"
+        url: /courses/dimensionality/svd/
+      - title: "Forward Feature Selection"
+        url: /courses/dimensionality/forwardfeatures/
+      - title: "Backward Feature Elemination"
+        url: /courses/dimensionality/backward-feature/
+      - title: "Subset Selection"
+        url: /courses/dimensionality/subsetselection/
+      - title: "Principal Component Analysis (PCA)"
+        url: /courses/dimensionality/pca
+      - title: "Partial Least Squares Regression (PLSR)"
+        url: /courses/dimensionality/plsr/
+      - title: "Latent Dirichlet Analysis (LDA)"
+        url: /courses/dimensionality/lda/
+      - title: "Regularized Discriminant Analysis (RDA)"
+        url: /courses/dimensionality/rda/
+      - title: "t-Distributed Stochastic Neighbor Embedding (t-SNE)"
+        url: /courses/dimensionality/tsne/
+      - title: "Factor Analysis"
+        url: /courses/dimensionality/factor-analysis/
+      - title: "Multidimensional Scaling (MDS)"
+        url: /courses/dimensionality/mds/
+      - title: "AutoEncoder"
+        url: /courses/dimensionality/autoencoder/
+      - title: "Independent Component Analysis (ICA)"
+        url: /courses/dimensionality/ica/
+      - title: "Isomap"
+        url: /courses/dimensionality/isomap/
+      - title: "Local Linear Embedding (LLE)"
+        url: /courses/dimensionality/lle/
+      - title: "Locality-Sensitive Hashing"
+        url: /courses/dimensionality/localitysensitive/
+      - title: "Sammon Mapping"
+        url: /courses/dimensionality/sammon/
+  - title: Ensemble
     children:
-      - title: "Abstract"
-        url: https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/
-      - title: "Introduction"
-        url: https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/
-      - title: "Federal Anti-Indian Law"
-        url: https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/
-      - title: "Order, Economy, and Legality: Johnson v. M’Intosh after Two Hundred Years"  
-        url: https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/
-      - title: "The Contemporary Presence of Discovery’s Assertion in Canada"  
-        url: https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/
-      - title: "Haaland v. Brackeen and the Logic of Discovery"  
-        url: https://canopyforum.org/2023/03/18/haaland-v-brackeen-and-the-logic-of-discovery/
-      - title: "Did Pope Alexander VI Authorize England’s Colonization of North America?"  
-        url: https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/
-      - title: "However, Extravagant The Pretensions Of Johnson V. M’Intosh"
-        url: https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/   
-      - title: "Johnson v. M’Intosh, Plenary Power, and Our Colonial Constitution"
-        url: https://canopyforum.org/2023/03/29/johnson-v-mintosh-plenary-power-and-our-colonial-constitution/  
-      - title: "The International Law of Colonialism: Johnson v. M’Intosh and the Doctrine of Discovery"
-        url: https://canopyforum.org/2023/03/30/the-international-law-of-colonialism-johnson-v-mintosh-and-the-doctrine-of-discovery-applied-worldwide/
-      - title: "The Legacy of the Right to Control Land and Dependency"
-        url: https://canopyforum.org/2023/04/01/the-legacy-of-the-right-to-control-land-and-dependency/
-      - title: "Johnson v. M’Intosh, Wi Parata v. Bishop of Wellington, and the Legacy of the Doctrine of Discovery in Aotearoa-New Zealand"
-        url: https://canopyforum.org/2023/04/11/johnson-v-mintosh-wi-parata-v-bishop-of-wellington-and-the-legacy-of-the-doctrine-of-discovery-in-aotearoa-new-zealand/
-      - title: "Johnson v. M’Intosh and the Missing Cover of the Jigsaw Puzzle"
-        url: "https://canopyforum.org/2023/04/13/johnson-v-mintosh-and-the-missing-cover-of-the-jigsaw-puzzle/"
+      - title: "Random Forest"
+        url: /courses/ensemble/random-forest/
+      - title: "Bagging (Bootstrap Aggregation)"
+        url: /courses/ensemble/bagging/
+      - title: "AdaBoost"
+        url: /courses/ensemble/adaboost/
+      - title: "Gradient Boosting"
+        url: /courses/ensemble/gradient-boosting/
+      - title: "Gradient Boosted Regression Trees"
+        url: /courses/ensemble/gradient-boosting-tree
+      - title: "XGBoost (Extreme Gradient Boosting)"
+        url: /courses/ensemble/xgboost/
+      - title: "Voting Classifier"
+        url: /courses/ensemble/voting-classifier/
+      - title: "Extremely Randomized Trees"
+        url: /courses/ensemble/ert/
+      - title: "Boosted Decision Tree"
+        url: /courses/ensemble/boosteddt/
+      - title: "Category Boosting (CatBoost)"
+        url: /courses/ensemble/category-boosting/
+      - title: "Stacked Generalization (Stacking)"
+        url: /courses/ensemble/stacking/
+  - title: Clustering
+    children:
+      - title: "K-Means Clustering"
+        url: /courses/clustering/kmeans/
+      - title: "K-Medians Clustering"
+        url: /courses/clustering/kmedian/
+      - title: "Mean Shift Clustering"
+        url: /courses/clustering/meanshift/
+      - title: "K-Modes Clustering"
+        url: /courses/clustering/kmodes/
+      - title: "Fuzzy K-Modes"
+        url: /courses/clustering/fuzzy-kmodes/
+      - title: "Fuzzy C-Means"
+        url: /courses/clustering/fuzzy-cmeans/
+      - title: "Mini Batch K-Means Clustering"
+        url: /courses/clustering/minibatch-kmeans/
+      - title: "Hierarchical Clustering"
+        url: /courses/clustering/hierarchical/
+      - title: "Expectation Maximization"
+        url: /courses/clustering/expectation-max/
+      - title: "DBSCAN"
+        url: /courses/clustering/dbscan/
+      - title: "Minimum Spanning Trees"
+        url: /courses/clustering/minimum-spantree/
+      - title: "Quality Threshold"
+        url: /courses/clustering/quality-threshold/
+      - title: "Gaussian Mixture Model (GMM)"
+        url: /courses/clustering/gmm/
+      - title: "Spectral Clustering"
+        url: /courses/clustering/spectral-clustering/
+  - title: Association Rule Learning
+    children:
+      - title: "Apriori"
+        url: /courses/association/apriori/
+      - title: "Eclat"
+        url: /courses/association/eclat/
+  - title: Regularization
+    children:
+      - title: "LASSO Regularization"
+        url: /courses/regularization/lasso/
+      - title: "Ridge Regularization"
+        url: /courses/regularization/ridge/
+      - title: "Elastic Net Regularization"
+        url: /courses/regularization/elastic-net/
+
+
+projectlist:
+  - title: Banking and Finance
+    children:
+      - title: "Credit Card Fraud Detection (Isolation Forest)"
+        url: /projects/isolation_forest_cc/
