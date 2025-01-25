@@ -189,7 +189,7 @@ li ol {
 
 figure {
   display: -webkit-box;
-  display: flex;
+  display: grid;
   -webkit-box-pack: justify;
   justify-content: space-between;
   -webkit-box-align: start;

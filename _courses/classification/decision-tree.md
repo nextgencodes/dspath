@@ -2,7 +2,7 @@
 title: "Decision Trees: A Simple Guide to Making Predictions with Data"
 excerpt: "Decision Tree Algorithm"
 # permalink: /courses/classification/decision-tree/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2024-01-5T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true
