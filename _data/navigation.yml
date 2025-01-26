@@ -246,3 +246,5 @@ projectlist:
     children:
       - title: "Credit Card Fraud Detection (Isolation Forest)"
         url: /projects/isolation_forest_cc/
+      - title: "Bhavcopy Downloader"
+        url: /projects/bhavcopy_downloader/
