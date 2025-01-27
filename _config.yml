@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Zhopa-R01"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am the website maintainer. For any queries, fill the form."
-  location         : "Somewhere"
+  bio              : "Welcome to the ocean of Data Science. I will be a mute spectator. Enjoy the learning journey."
+  location         : "Mars"
   email            :
   links:
     - label: "Email"

@@ -5,3 +5,8 @@ layout: archive
 {{ content }}
 
 {% include posts-taxonomy.html taxonomies=site.tags %}
+{% assign pages = site.courses %}
+{% for page in pages %}
+    title: {{page.title}}
+{% endfor %}
+
