@@ -38,10 +38,9 @@ def predict():
                                                          max_combination=max_combination,
                                                          separator=' & ',
                                                          verbose=True)
-        print(rule_supports)
+
         result = pd.DataFrame(rule_supports.items(),columns=['Item', 'Support'])
         result.sort_values(by=['Support'], ascending=False)
-        print(result)
         itemsets_dict = result.to_dict(orient='records')
         return jsonify({'result':itemsets_dict})
 

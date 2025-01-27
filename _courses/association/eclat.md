@@ -15,6 +15,7 @@ tags:
   - Association Rule Mining
 ---
 
+{% include download file="eclat.ipynb" alt="download eclat code" text="Download Code" %}
 
 
 ## Introduction: What is the Eclat Algorithm?
