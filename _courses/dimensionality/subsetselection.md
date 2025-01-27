@@ -2,7 +2,7 @@
 title: "Subset Selection"
 excerpt: "Subset Selection Algorithm"
 # permalink: /courses/dimensionality/subsetselection/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true

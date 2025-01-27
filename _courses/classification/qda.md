@@ -2,7 +2,7 @@
 title: "Quadratic Discriminant Analysis (QDA)"
 excerpt: "Quadratic Discriminant Analysis (QDA) Algorithm"
 # permalink: /courses/classification/qda/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true

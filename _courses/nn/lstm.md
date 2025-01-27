@@ -2,7 +2,7 @@
 title: "Long Short-Term Memory"
 excerpt: "Long Short-Term Memory Algorithm"
 # permalink: /courses/nn/lstm/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true

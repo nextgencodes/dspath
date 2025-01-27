@@ -2,7 +2,7 @@
 title: "Gradient Boosted Regression Trees"
 excerpt: "Gradient Boosted Regression Trees Algorithm"
 # permalink: /courses/ensemble/gradient-boosting-tree
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true

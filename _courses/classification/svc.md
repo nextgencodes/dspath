@@ -2,7 +2,7 @@
 title: "Linear Support Vector Classifier (SVC)"
 excerpt: "Linear Support Vector Classifier (SVC) Algorithm"
 # permalink: /courses/classification/svc/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true

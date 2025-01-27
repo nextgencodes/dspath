@@ -2,7 +2,7 @@
 title: "Decision Stumps: The Simplest Yet Powerful Building Block in Machine Learning"
 excerpt: "Decision Stump Algorithm"
 # permalink: /courses/classification/decision-stump/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true

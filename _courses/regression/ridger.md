@@ -2,7 +2,7 @@
 title: "Ridge Regression (L2)"
 excerpt: "Ridge Regression (L2) Algorithm"
 # permalink: /courses/regression/ridger/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true

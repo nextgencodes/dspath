@@ -2,7 +2,7 @@
 title: "Multivariate Adaptive Regression Splines (MARS)"
 excerpt: "Multivariate Adaptive Regression Splines (MARS) Algorithm"
 # permalink: /courses/regression/mars/
-last_modified_at: 2025-01-22T23:45:00-00:00
+last_modified_at: 2022-01-22T23:45:00-00:00
 classes: narrow
 hidden: false
 strip_title: true
