@@ -9,7 +9,7 @@ tags: [Software, Bhavcopy]
 ---
 
 
-<a href="/assets/codes/BhavcopyDownloader_V1.1.exe" style="display: inline-block; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease; cursor: pointer;
+<a href="https://www.up-4ever.net/goaqqz6o9ggl" style="display: inline-block; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease; cursor: pointer;
   transform: translateX(100%);"><span style="font-weight:bold">Download Software</span></a>
 
 

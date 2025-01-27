@@ -2,11 +2,20 @@
 layout: archive
 ---
 
-{{ content }}
+<!-- {{ content }}
 
 {% include posts-taxonomy.html taxonomies=site.tags %}
 {% assign pages = site.courses %}
 {% for page in pages %}
     title: {{page.title}}
-{% endfor %}
+{% endfor %} -->
 
+{{ content }}
+
+{% include posts-taxonomy.html taxonomies=site.tags %}
+
+## courses
+{% for course in site.courses %}
+   <!-- {{tags.title}} -->
+   {% include posts-taxonomy.html taxonomies=course.tags %}
+{% endfor %}
