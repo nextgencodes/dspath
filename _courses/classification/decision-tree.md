@@ -7,12 +7,13 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
-tags: 
-  - Machine Learning
-  - Classification Model
   - Tree Model
   - Supervised Learning
+  - Classification Algorithm
+tags: 
+  - Tree Models
+  - Classification algorithm
+  - Rule-based learning
 ---
 
 <!-- # Decision Trees: A Simple Guide to Making Predictions with Data -->

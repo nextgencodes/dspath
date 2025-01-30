@@ -6,11 +6,15 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
+  - Tree Model
+  - Ensemble Model
+  - Unsupervised Learning
   - Anomaly Detection
 tags: 
-  - Machine Learning
-  - Anomaly Detection
+  - Anomaly detection
+  - Tree-based
+  - Isolation
+  - Outlier detection
 ---
 
 

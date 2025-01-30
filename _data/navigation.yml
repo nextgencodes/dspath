@@ -248,3 +248,329 @@ projectlist:
         url: /projects/isolation_forest_cc/
       - title: "Bhavcopy Downloader"
         url: /projects/bhavcopy_downloader/
+
+
+## Categories
+
+
+# Here are the categories for the models listed, using the existing categories provided in your `courselist`.  The models are already categorized well. Below is a structured output that re-organizes them slightly for clarity within some categories (like grouping Naive Bayes types).
+
+# courselist:
+#   - title: Classification Algorithms
+#     children:
+#       - title: "Decision Tree"
+#         url: /courses/classification/decision-tree/
+#       - title: "Decision Stump"
+#         url: /courses/classification/decision-stump/
+#       - title: "Rule-Based Classifiers"
+#         children: # sub-category for rule based models
+#           - title: "Zero Rule (ZeroR)"
+#             url: /courses/classification/zeror/
+#           - title: "One Rule (OneR)"
+#             url: /courses/classification/oner/
+#       - title: "Naive Bayes Classifiers"
+#         children: # sub-category for different Naive Bayes types
+#           - title: "Naive Bayes"
+#             url: /courses/classification/naive-bayes/
+#           - title: "Gaussian Naive Bayes"
+#             url: /courses/classification/gaussian-nb/
+#           - title: "Bernoulli Naive Bayes"
+#             url: /courses/classification/bernoulli-nb/
+#           - title: "Multinomial Naive Bayes"
+#             url: /courses/classification/multinomial-nb/
+#       - title: "Discriminant Analysis"
+#         children: # sub-category for Discriminant Analysis methods
+#           - title: "Linear Discriminant Analysis (LDA)"
+#             url: /courses/classification/lda/
+#           - title: "Quadratic Discriminant Analysis (QDA)"
+#             url: /courses/classification/qda/
+#           - title: "Fisher's Linear Discriminant"
+#             url: /courses/classification/fsd/
+#       - title: "Nearest Neighbor Classifier"
+#         children: # Sub-category for KNN
+#           - title: "K Nearest Neighbours (KNN)"
+#             url: /courses/classification/knn/
+#       - title: "Support Vector Machines (SVM)"
+#         children: # Sub-category for SVM variants
+#           - title: "Support Vector Machine (SVM)"
+#             url: /courses/classification/svm/
+#           - title: "Linear Support Vector Classifier (SVC)"
+#             url: /courses/classification/svc/
+#           - title: "NuSVC"
+#             url: /courses/classification/nusvc/
+#       - title: "Probabilistic Classifiers"
+#         children: # Sub-category for Probabilistic methods
+#           - title: "Logistic Regression"
+#             url: /courses/classification/logistic/
+#           - title: "Bayesian Network"
+#             url: /courses/classification/bayesian-network/
+#       - title: "Linear Classifiers"
+#         children: # Sub-category for linear classifiers
+#           - title: "Stochastic Gradient Descent Classifier (SGD)"
+#             url: /courses/classification/sgd/
+#   - title: Regression Analysis
+#     children:
+#       - title: "Basic Regression Models"
+#         children: # Sub-category for fundamental regression models
+#           - title: "Linear Regression"
+#             url: /courses/regression/lr/
+#           - title: "Polynomial Regression"
+#             url: /courses/regression/polyr/
+#           - title: "Ordinary Least Squares (OLS) Regression"
+#             url: /courses/regression/olsr/ # OLS is method for LR but often used synonymously
+#           - title: "Gradient Descent Regression"
+#             url: /courses/regression/gradientdescentr/ # GD optimization for Regression
+#       - title: "Regularized Regression"
+#         children: # Sub-category for Regularization techniques in regression
+#           - title: "Lasso Regression (Least absoulute selection and shrinkage operator)"
+#             url: /courses/regression/lassor/
+#           - title: "Ridge Regression (L2)"
+#             url: /courses/regression/ridger/
+#           - title: "Elastic Net Regression"
+#             url: /courses/regression/elasticnetr/
+#       - title: "Specialized Regression Models"
+#         children: # Sub-category for specific regression types
+#           - title: "Poisson Regression"
+#             url: /courses/regression/poissonr/
+#           - title: "Ordinal Regression"
+#             url: /courses/regression/ordinalr/
+#           - title: "Quantile Regression"
+#             url: /courses/regression/quantiler/
+#       - title: "Bayesian Regression"
+#         children: # Sub-category for Bayesian methods in regression
+#           - title: "Bayesian Linear Regression"
+#             url: /courses/regression/bayesianlr/
+#       - title: "Spline-based Regression"
+#         children: # Sub-category for spline based methods
+#           - title: "Multivariate Adaptive Regression Splines (MARS)"
+#             url: /courses/regression/mars/
+#       - title: "Nearest Neighbor Regression"
+#         children: # Sub-category for local regression
+#           - title: "Locally Weighted Regression (LWL)"
+#             url: /courses/regression/lwlr/
+#           - title: "Locally Estimated Scatterplot Smoothing (LOESS)"
+#             url: /courses/regression/loessr/
+#       - title: "Dimensionality Reduction in Regression"
+#         children: # Sub-category for Regression with dimensionality reduction
+#           - title: "Principal Component Regression (PCR)"
+#             url: /courses/regression/pcr/
+#           - title: "Partial Least Squares Regression"
+#             url: /courses/regression/plsr/ # PLSR is also in Dimensionality Reduction
+#       - title: "Support Vector Regression"
+#         children: # Sub-category for SVR
+#           - title: "Support Vector Regression"
+#             url: /courses/regression/svr/
+#       - title: "Stepwise and Feature Selection Regression"
+#         children: # Sub-category for feature selection methods
+#           - title: "Stepwise Regression"
+#             url: /courses/regression/stepwiser/
+#           - title: "Least-Angled Regression (LARS)"
+#             url: /courses/regression/lars/ # LARS related to feature selection
+#       - title: "Neural Network Regression"
+#         children: # Sub-category for NN regression (can also be under NN generally)
+#           - title: "Neural Network Regression"
+#             url: /courses/regression/nnr/
+#   - title: Neural Networks
+#     children:
+#       - title: "Fundamental Neural Networks"
+#         children: # Sub-category for basic building blocks
+#           - title: "Perceptron"
+#             url: /courses/nn/perceptron/
+#           - title: "Multilayer Perceptron (MLP)"
+#             url: /courses/nn/mlp/
+#       - title: "Recurrent Neural Networks (RNNs)"
+#         children: # Sub-category for RNNs and variants
+#           - title: "Recurrent Neural Network (RNN)"
+#             url: /courses/nn/rnn/
+#           - title: "Long Short-Term Memory"
+#             url: /courses/nn/lstm/ # LSTM is a type of RNN
+#       - title: "Convolutional Neural Networks (CNNs)"
+#         children: # Sub-category for CNNs
+#           - title: "Convolutional Neural Network (CNN)"
+#             url: /courses/nn/cnn/
+#       - title: "Deep Generative Models"
+#         children: # Sub-category for deep generative models
+#           - title: "Deep Belief Network (DBN)"
+#             url: /courses/nn/dbn/
+#           - title: "Boltzmann Machines"
+#             children: # Further sub-category for Boltzmann related networks
+#               - title: "Boltzmann Machine"
+#                 url: /courses/nn/boltzmann/
+#               - title: "Restricted Boltzmann Machine (RBM)"
+#                 url: /courses/nn/rbm/ # RBM is restricted BM
+#           - title: "Autoencoders"
+#             children: # Further sub-category for Autoencoders
+#               - title: "AutoEncoder" # Could also be in Dimensionality Reduction, but listed here in NN section.
+#                 url: /courses/dimensionality/autoencoder/
+#               - title: "Stacked Autoencoder"
+#                 url: /courses/nn/stackedencoder/
+#               - title: "Variational Autoencoder (VARs)" # VAE
+#                 url: /courses/nn/var/
+#           - title: "Generative Adversarial Networks (GANs)"
+#             url: /courses/nn/gan/
+#       - title: "Other Neural Network Architectures"
+#         children: # Catch-all for other NN types that don't neatly fit above
+#           - title: "Hopfield Networks"
+#             url: /courses/nn/hopfield/
+#           - title: "Learning Vector Quantization (LVQ)"
+#             url: /courses/nn/lvq/
+#   - title: Anomaly Detection
+#     children:
+#       - title: "Statistical Anomaly Detection"
+#         children: # Sub-category for statistical approaches
+#           - title: "PCA-Based Anomaly Detection"
+#             url: /courses/anomaly/pca-anomaly/
+#           - title: "Fast-MCD"
+#             url: /courses/anomaly/fast-mcd/
+#       - title: "Density-Based Anomaly Detection"
+#         children: # Sub-category for density based methods
+#           - title: "Local Outlier Factor (LOF)"
+#             url: /courses/anomaly/lof/
+#       - title: "Tree-Based Anomaly Detection"
+#         children: # Sub-category for tree based methods
+#           - title: "Isolation Forest"
+#             url: /courses/anomaly/isolation-forest/
+#       - title: "SVM for Anomaly Detection"
+#         children: # Sub-category for SVM method in anomaly detection
+#           - title: "Once Class SVM"
+#             url: /courses/anomaly/OcSVM/
+#   - title: Dimensionality Reduction
+#     children:
+#       - title: "Linear Dimensionality Reduction"
+#         children: # Sub-category for linear methods
+#           - title: "Principal Component Analysis (PCA)"
+#             url: /courses/dimensionality/pca
+#           - title: "Singular Value Decomposition (SVD)"
+#             url: /courses/dimensionality/svd/
+#           - title: "Independent Component Analysis (ICA)"
+#             url: /courses/dimensionality/ica/
+#           - title: "Factor Analysis"
+#             url: /courses/dimensionality/factor-analysis/
+#           - title: "Latent Dirichlet Analysis (LDA)" # LDA also in classification
+#             url: /courses/dimensionality/lda/
+#           - title: "Partial Least Squares Regression (PLSR)" # PLSR also in Regression
+#             url: /courses/dimensionality/plsr/
+#           - title: "Linear Discriminant Analysis (LDA)" # Duplicated entry - removed as already above
+#             url: /courses/dimensionality/lda/
+#           - title: "Regularized Discriminant Analysis (RDA)"
+#             url: /courses/dimensionality/rda/
+#       - title: "Non-linear Dimensionality Reduction"
+#         children: # Sub-category for non-linear methods
+#           - title: "t-Distributed Stochastic Neighbor Embedding (t-SNE)"
+#             url: /courses/dimensionality/tsne/
+#           - title: "Isomap"
+#             url: /courses/dimensionality/isomap/
+#           - title: "Local Linear Embedding (LLE)"
+#             url: /courses/dimensionality/lle/
+#           - title: "Multidimensional Scaling (MDS)"
+#             url: /courses/dimensionality/mds/
+#           - title: "Sammon Mapping"
+#             url: /courses/dimensionality/sammon/
+#           - title: "AutoEncoder" # Also listed under NN
+#             url: /courses/dimensionality/autoencoder/
+#       - title: "Feature Selection Methods"
+#         children: # Sub-category for feature selection approaches
+#           - title: "Forward Feature Selection"
+#             url: /courses/dimensionality/forwardfeatures/
+#           - title: "Backward Feature Elemination"
+#             url: /courses/dimensionality/backward-feature/
+#           - title: "Subset Selection"
+#             url: /courses/dimensionality/subsetselection/
+#       - title: "Hashing Techniques"
+#         children: # Sub-category for hashing techniques
+#           - title: "Locality-Sensitive Hashing"
+#             url: /courses/dimensionality/localitysensitive/
+
+#   - title: Ensemble
+#     children:
+#       - title: "Bagging Methods"
+#         children: # Sub-category for Bagging
+#           - title: "Bagging (Bootstrap Aggregation)"
+#             url: /courses/ensemble/bagging/
+#           - title: "Random Forest"
+#             url: /courses/ensemble/random-forest/ # RF is based on Bagging
+#           - title: "Extremely Randomized Trees"
+#             url: /courses/ensemble/ert/ # ERT is also based on Bagging
+#       - title: "Boosting Methods"
+#         children: # Sub-category for Boosting
+#           - title: "AdaBoost"
+#             url: /courses/ensemble/adaboost/
+#           - title: "Gradient Boosting"
+#             url: /courses/ensemble/gradient-boosting/
+#           - title: "Gradient Boosted Regression Trees"
+#             url: /courses/ensemble/gradient-boosting-tree
+#           - title: "XGBoost (Extreme Gradient Boosting)"
+#             url: /courses/ensemble/xgboost/ # XGBoost is a form of gradient boosting
+#           - title: "Category Boosting (CatBoost)"
+#             url: /courses/ensemble/category-boosting/ # CatBoost is also gradient boosting
+#           - title: "Boosted Decision Tree" # General term - may overlap with others, but kept as listed.
+#             url: /courses/ensemble/boosteddt/
+#       - title: "Voting and Stacking"
+#         children: # Sub-category for meta-ensembling approaches
+#           - title: "Voting Classifier"
+#             url: /courses/ensemble/voting-classifier/
+#           - title: "Stacked Generalization (Stacking)"
+#             url: /courses/ensemble/stacking/
+#   - title: Clustering
+#     children:
+#       - title: "Partitional Clustering"
+#         children: # Sub-category for Partitional methods (K-means and variants)
+#           - title: "K-Means Clustering"
+#             url: /courses/clustering/kmeans/
+#           - title: "K-Medians Clustering"
+#             url: /courses/clustering/kmedian/
+#           - title: "K-Modes Clustering"
+#             url: /courses/clustering/kmodes/
+#           - title: "Fuzzy K-Modes"
+#             url: /courses/clustering/fuzzy-kmodes/
+#           - title: "Fuzzy C-Means"
+#             url: /courses/clustering/fuzzy-cmeans/ # Fuzzy C-Means is fuzzy version of K-Means
+#           - title: "Mini Batch K-Means Clustering"
+#             url: /courses/clustering/minibatch-kmeans/ # Mini-batch is K-means variant
+#           - title: "Mean Shift Clustering" # Mean shift can be considered partitional in some contexts
+#             url: /courses/clustering/meanshift/
+#       - title: "Hierarchical Clustering"
+#         children: # Sub-category for Hierarchical methods
+#           - title: "Hierarchical Clustering"
+#             url: /courses/clustering/hierarchical/
+#           - title: "Minimum Spanning Trees" # MST used for Hierarchical clustering
+#             url: /courses/clustering/minimum-spantree/
+#           - title: "Quality Threshold" # QT-clustering is hierarchical
+#             url: /courses/clustering/quality-threshold/
+#       - title: "Density-Based Clustering"
+#         children: # Sub-category for Density-based
+#           - title: "DBSCAN"
+#             url: /courses/clustering/dbscan/
+#       - title: "Model-Based Clustering"
+#         children: # Sub-category for probabilistic/model-based
+#           - title: "Gaussian Mixture Model (GMM)"
+#             url: /courses/clustering/gmm/ # GMM is model based
+#           - title: "Expectation Maximization" # EM used with GMM
+#             url: /courses/clustering/expectation-max/
+#       - title: "Spectral Clustering"
+#         children: # Sub-category for Spectral
+#           - title: "Spectral Clustering"
+#             url: /courses/clustering/spectral-clustering/
+#   - title: Association Rule Learning
+#     children:
+#       - title: "Frequent Itemset Mining"
+#         children: # Sub-category for frequent itemset mining algorithms
+#           - title: "Apriori"
+#             url: /courses/association/apriori/
+#           - title: "Eclat"
+#             url: /courses/association/eclat/
+#   - title: Regularization
+#     children:
+#       - title: "L1 Regularization"
+#         children: # Sub-category for L1 regularization
+#           - title: "LASSO Regularization"
+#             url: /courses/regularization/lasso/
+#       - title: "L2 Regularization"
+#         children: # Sub-category for L2 regularization
+#           - title: "Ridge Regularization"
+#             url: /courses/regularization/ridge/
+#       - title: "Combined Regularization"
+#         children: # Sub-category for combined regularization
+#           - title: "Elastic Net Regularization"
+#             url: /courses/regularization/elastic-net/
+

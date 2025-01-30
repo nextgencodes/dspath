@@ -7,10 +7,16 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
+  - Linear Model
+  - Dimensionality Reduction
+  - Supervised Learning
+  - Classification Algorithm
 tags: 
-  - Machine Learning
-  - Classification Model
+  - Linear classifier
+  - Classification algorithm
+  - Dimensionality reduction
+  - Discriminant analysis
+
 ---
 
 

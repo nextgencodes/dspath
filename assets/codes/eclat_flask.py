@@ -23,7 +23,6 @@ df = pd.DataFrame(te_ary, columns=te.columns_)
 def predict():
     try:
         data = request.get_data()
-        print(json.loads(data))
         data = pd.DataFrame(json.loads(data)['data'])
         # Run Eclat
         eclat = ECLAT(data=data)

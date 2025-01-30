@@ -7,12 +7,14 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
-  - Data Mining
+  - Association Rule Learning
+  - Frequent Itemset Mining
+  - Unsupervised Learning
 tags: 
-  - Machine Learning
-  - Frequent Itemset
-  - Association Rule Mining
+  - Association rule learning
+  - Frequent itemset mining
+  - Market basket analysis
+  - Efficient algorithm
 ---
 
 {% include download file="eclat.ipynb" alt="download eclat code" text="Download Code" %}

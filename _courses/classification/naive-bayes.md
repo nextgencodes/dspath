@@ -7,19 +7,18 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
-  - NLP
+  - Probabilistic Model
+  - Supervised Learning
+  - Classification Algorithm
 tags: 
-  - Naive Bayes
-  - Classification
-  - Text Analysis 
-  - Machine Learning
-  - Python
+  - Probabilistic Models
+  - Classification algorithm
+  - Bayesian methods
 ---
 
 {% include download file="naive_bayes.ipynb" alt="download naive bayes code" text="Download Code" %}
 
-## Introduction: What is Naive Bayes?
+## Introduction to Naive Bayes
 
 Imagine you're trying to guess if an email is spam. You might look for certain words like "lottery" or "free." Naive Bayes is a machine learning algorithm that works a bit like that, but much more systematically.
 

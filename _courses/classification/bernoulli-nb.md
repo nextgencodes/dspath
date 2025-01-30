@@ -7,11 +7,13 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
-  - Classification
+  - Probabilistic Model
+  - Supervised Learning
+  - Classification Algorithm
 tags: 
-  - Machine Learning
-  - Classification Model
+  - Probabilistic Models
+  - Classification algorithm
+  - Bayesian methods
 ---
 
 {% include download file="bernoulli_nb.ipynb" alt="download bernoulli naive bayes code" text="Download Code" %}
@@ -67,15 +69,23 @@ Bernoulli Naive Bayes applies Bayes' Theorem to the problem of classification. W
 1. **Feature Independence:**  It assumes that all features are independent of each other, given the class.  This is a simplification that rarely holds true in real-world data, but it makes calculations a lot easier and often performs well despite this assumption (hence "naive").
 2.  **Binary Features:** Bernoulli Naive Bayes specifically works with binary features, each having two options either 0 or 1 (absent/present). We do not consider the number of times a feature is present.
 
-For a document with features (words) \( x_1, x_2, ..., x_n \), the probability of it belonging to a class 'c' is given by:
-$$P(c | x_1, x_2, ..., x_n) \propto P(c) \prod_{i=1}^{n} P(x_i|c)$$
+For a document with features (words) $$ ( x_1, x_2, ..., x_n ) $$, the probability of it belonging to a class 'c' is given by:
+
+$$
+P(c | x_1, x_2, ..., x_n) \propto P(c) \prod_{i=1}^{n} P(x_i|c)
+$$
 
 Where:
-*   \( P(c|x_1, x_2, ..., x_n) \) is the posterior probability of the document belonging to class 'c' given features.
-*   \( P(c) \) is the prior probability of class 'c'.
-*   \( P(x_i|c) \) is the likelihood, or the probability of feature \( x_i \) being present given the class is 'c'. 
-    *   If the feature \( x_i \) is present in document, it has a value of 1. Then we use  \( P(x_i=1|c) \).
-    *   If the feature \( x_i \) is absent from document, it has a value of 0. Then we use \( P(x_i=0|c) = 1 - P(x_i=1|c) \)
+*   $$  
+P(c | x_1, x_2, ..., x_n) $$ is the posterior probability of the document belonging to class 'c' given features.
+*   $$  P(c)  $$ is the prior probability of class 'c'.
+*   $$ 
+P(x_i|c)  
+$$ is the likelihood, or the probability of feature $$ x_i $$ being present given the class is 'c'. 
+*   If the feature $$  x_i $$ is present in document, it has a value of 1. 
+Then we use  $$ P(x_i=1|c) $$.
+*   If the feature $$ x_i $$  is absent from document, it has a value of 0. 
+Then we use $$ P(x_i=0|c) = 1 - P(x_i=1|c) $$
 
 **Example:**
 
@@ -169,7 +179,7 @@ data = {
         "claim your reward",
         "check my document attached"
     ],
-    'label': [1, 0, 1, 0, 1, 0, 1, 0]  # 1 for spam, 0 for not spam
+    'label': [1, 0, 1, 0, 0, 0, 1, 0]  # 1 for spam, 0 for not spam
 }
 df = pd.DataFrame(data)
 
@@ -205,6 +215,23 @@ y_pred_loaded = loaded_model.predict(X_test)
 print(f"Prediction using loaded model: {y_pred_loaded}")
 ```
 
+`Output:`
+```
+
+Accuracy: 1.0
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         2
+
+    accuracy                           1.00         2
+   macro avg       1.00      1.00      1.00         2
+weighted avg       1.00      1.00      1.00         2
+
+Prediction using loaded model: [0 0]
+
+```
+
 **Explanation of Output:**
 
 *   **Accuracy:**  This is the percentage of correctly classified examples (emails). In this case, it tells you how well the model classifies emails as spam or not spam. For example, 1.0 accuracy indicates 100% accuracy.
@@ -220,7 +247,9 @@ print(f"Prediction using loaded model: {y_pred_loaded}")
 
 Once your model is trained, you might want to do some post-processing:
 
-1.  **Feature Importance:** In the context of text data, you can examine which words have the highest impact on the classification. In Bernoulli Naive Bayes, these are the words with large \(P(x_i|c)\) values, for the different classes.
+1.  **Feature Importance:** In the context of text data, you can examine which words have the highest impact on the classification. In Bernoulli Naive Bayes, these are the words with large $$ 
+P(x_i|c) 
+$$ values, for the different classes.
     *   **Code Example:**
         ```python
         feature_log_prob = model.feature_log_prob_ #probability of each feature
@@ -230,6 +259,16 @@ Once your model is trained, you might want to do some post-processing:
             indices = feature_log_prob[i,:].argsort()[::-1][:5] #top 5 most significant features
             print(feature_names[indices])
         ```
+        
+        `Output:`
+
+        ```
+        Most significant words for class: 0
+        ['urgent' 'scheduled' 'today' 'my' 'needed']
+        Most significant words for class: 1
+        ['free' 'urgent' 'your' 'money' 'reward']
+        ```
+
         This gives top 5 significant words for each class based on the probability.
 2. **Hypothesis Testing:** if there are multiple models, you can use hypothesis testing to check if the accuracy is significantly better for one model than the other.
     *   **Example:** You can use a paired t-test or a chi-squared test for comparison between classification results.
@@ -253,7 +292,8 @@ from sklearn.model_selection import GridSearchCV
 param_grid = {'alpha': [0.1, 0.5, 1.0, 2.0]}
 
 # Perform grid search with cross validation
-grid_search = GridSearchCV(BernoulliNB(), param_grid, cv=5)
+# CV Split should not be greater than dataset class size.
+grid_search = GridSearchCV(BernoulliNB(), param_grid, cv=3) 
 grid_search.fit(X_train, y_train)
 
 # Best parameters and score

@@ -7,11 +7,13 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
+  - Tree Model
+  - Supervised Learning
+  - Classification Algorithm
 tags: 
-  - Machine Learning
-  - Classification Model
-  - Decision Stump
+  - Tree Models
+  - Classification algorithm
+  - Rule-based learning
 ---
 
 {% include download file="decision_stump.ipynb" alt="download decision tree code" text="Download Code" %}

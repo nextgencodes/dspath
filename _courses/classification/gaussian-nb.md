@@ -7,10 +7,13 @@ classes: narrow
 hidden: false
 strip_title: true
 categories:
-  - Machine Learning
+  - Probabilistic Model
+  - Supervised Learning
+  - Classification Algorithm
 tags: 
-  - Machine Learning
-  - Classification Model
+  - Probabilistic Models
+  - Classification algorithm
+  - Bayesian methods
 ---
 
 {% include download file="gaussian_naive_bayes.ipynb" alt="download gaussian naive bayes code" text="Download Code" %}
