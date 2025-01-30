@@ -18,7 +18,7 @@ tags:
   - Outlier detection
 ---
 
-{% include download_file.html file="isolation_forest_blog_code.ipynb" alt="download isolation forest code" text="Download Code" %}
+{% include download file="isolation_forest_blog_code.ipynb" alt="download isolation forest code" text="Download Code" %}
 
 ## Introduction: Spotting the Unusual
 
