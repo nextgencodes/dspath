@@ -4,8 +4,8 @@
 User-agent: *
 Disallow: /googled1735a6ef176fcb5.html
 Disallow: /yandex_c5de83192854c9bd.html
-Allow: /courses
-Allow: /projects
+Allow: /courses/*
+Allow: /projects/*
 
 
 Sitemap: https://robo.run.place/sitemap.xml
