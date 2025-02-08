@@ -4,6 +4,7 @@ gem "jekyll"
 gem "faraday-retry"
 gem "csv"
 gem "base64"
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
     gem "github-pages"
     gem "jekyll-paginate"
